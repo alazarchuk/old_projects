@@ -1,0 +1,4737 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 4 0 R
+ /F3 5 0 R
+ /F4 8 0 R
+ /F5 38 0 R
+ /F6 135 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+3 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://catonmat.zigzap.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 782.6058
+ 65.01396
+ 793.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F2': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+5 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 700.1058
+ 78.37146
+ 711.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/programming/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 85.16646
+ 700.1058
+ 130.174
+ 711.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F4': class PDFType1Font 
+8 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 652.7199
+ 369.4823
+ 668.3011 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/about-this-blog/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 84.21396
+ 599.9996
+ 132.994
+ 611.2496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://freescienceonline.blogspot.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 251.8165
+ 599.9996
+ 319.759
+ 611.2496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://freescienceonline.blogspot.com/2007/05/programming-video-education-lectures.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 505.2565
+ 599.9996
+ 541.099
+ 611.2496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.crockford.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 122.554
+ 558.7496
+ 184.654
+ 569.9996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://en.wikipedia.org/wiki/JSON) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 60.85896
+ 547.4996
+ 80.86146
+ 558.7496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/watch/111593/1710507) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 498.7496
+ 142.9765
+ 509.9996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=111594) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 487.4996
+ 145.0615
+ 498.7496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1710607) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 476.2496
+ 147.1465
+ 487.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1710658) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 464.9996
+ 147.979
+ 476.2496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1027823) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 408.7496
+ 103.7965
+ 419.9996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1027832) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 397.4996
+ 105.8815
+ 408.7496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+21 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1027854) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 386.2496
+ 107.9665
+ 397.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=410472) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 164.6365
+ 348.7496
+ 182.5615
+ 359.9996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+23 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=412541) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 199.2415
+ 348.7496
+ 219.2515
+ 359.9996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=568351) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 337.4996
+ 119.209
+ 348.7496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.992708) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 197.1715
+ 326.2496
+ 215.0965
+ 337.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.996002) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 219.2665
+ 326.2496
+ 239.2765
+ 337.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.996008) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 255.9565
+ 326.2496
+ 278.0515
+ 337.4996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://developer.yahoo.com/yui/theater/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 69.19896
+ 307.4996
+ 109.6315
+ 318.7496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=630959) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 288.7496
+ 132.139
+ 299.9996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class PDFDictionary 
+30 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ocw.mit.edu/OcwWeb/Physics/8-03Fall-2004/VideoLectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 203.854
+ 200.1858
+ 313.894
+ 211.4358 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class PDFDictionary 
+31 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://ocw.mit.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 449.359
+ 200.1858
+ 534.379
+ 211.4358 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+32 0 obj
+% Page dictionary
+<< /Annots [ 3 0 R
+ 6 0 R
+ 7 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R ]
+ /Contents 267 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 28.34646
+ 548.4371
+ 0 ]
+ /Rect [ 259.2565
+ 805.1058
+ 305.104
+ 816.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class PDFDictionary 
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://en.wikipedia.org/wiki/Windows_Script_Host) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 134.2315
+ 703.8558
+ 203.4115
+ 715.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class PDFDictionary 
+35 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://en.wikipedia.org/wiki/JScript) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 474.784
+ 703.8558
+ 497.704
+ 715.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER30': class PDFDictionary 
+36 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1710507) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 673.8558
+ 244.7065
+ 685.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER31': class PDFDictionary 
+37 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FJavaScript-Definitive-Guide-David-Flanagan%2Fdp%2F0596101996&tag=freesciencand-20&linkCode=ur2&camp=1789&creative=9325) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 172.1515
+ 621.3558
+ 318.8815
+ 632.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F5': class PDFType1Font 
+38 0 obj
+% Font Symbol
+<< /BaseFont /Symbol
+ /Encoding /SymbolEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER32': class PDFDictionary 
+39 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=111594) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 302.6058
+ 246.7915
+ 313.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER33': class PDFDictionary 
+40 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1710607) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 197.6058
+ 248.8765
+ 208.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER34': class PDFDictionary 
+41 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.jslint.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 65.44146
+ 32.60581
+ 86.28396
+ 43.85581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+42 0 obj
+% Page dictionary
+<< /Annots [ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R
+ 37 0 R
+ 39 0 R
+ 40 0 R
+ 41 0 R ]
+ /Contents 268 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER35': class PDFDictionary 
+43 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1710658) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 775.1058
+ 249.709
+ 786.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER36': class PDFDictionary 
+44 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.992708) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 632.6058
+ 240.1165
+ 643.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER37': class PDFDictionary 
+45 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.996002) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 418.8558
+ 242.2015
+ 430.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER38': class PDFDictionary 
+46 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.996008) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 223.8558
+ 244.2865
+ 235.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+47 0 obj
+% Page dictionary
+<< /Annots [ 43 0 R
+ 44 0 R
+ 45 0 R
+ 46 0 R ]
+ /Contents 269 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER39': class PDFDictionary 
+48 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1027823) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 786.3558
+ 231.784
+ 797.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER40': class PDFDictionary 
+49 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1027832) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 602.6058
+ 233.869
+ 613.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER41': class PDFDictionary 
+50 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.jslint.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 528.5665
+ 538.8558
+ 560.2465
+ 550.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER42': class PDFDictionary 
+51 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.jslint.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 54.19146
+ 527.6058
+ 79.61646
+ 538.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER43': class PDFDictionary 
+52 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=cccd4aa02a3993ab06e56af731346f78.1027854) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 141.3265
+ 486.3558
+ 235.954
+ 497.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER44': class PDFDictionary 
+53 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.jslint.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 65.44146
+ 433.8558
+ 85.44396
+ 445.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER45': class PDFDictionary 
+54 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FPro-JavaScript-Techniques-John-Resig%2Fdp%2F1590597273&tag=freesciencand-20&linkCode=ur2&camp=1789&creative=9325) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 468.1015
+ 385.1058
+ 557.719
+ 396.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER46': class PDFDictionary 
+55 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=410472) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 104.629
+ 347.6058
+ 243.0115
+ 358.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER47': class PDFDictionary 
+56 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://en.wikipedia.org/wiki/XMLHttpRequest) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 242.194
+ 328.8558
+ 302.6215
+ 340.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER48': class PDFDictionary 
+57 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://en.wikipedia.org/wiki/XPath) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 262.189
+ 317.6058
+ 282.619
+ 328.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER49': class PDFDictionary 
+58 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.w3.org/TR/css3-selectors/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 299.299
+ 317.6058
+ 353.0665
+ 328.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER50': class PDFDictionary 
+59 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=412541) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 104.629
+ 253.8558
+ 245.0965
+ 265.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER51': class PDFDictionary 
+60 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://en.wikipedia.org/wiki/Object-relational_mapping) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 65.44146
+ 212.6058
+ 157.144
+ 223.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER52': class PDFDictionary 
+61 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=568351) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 139.2265
+ 118.8558
+ 218.839
+ 130.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER53': class PDFDictionary 
+62 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.nczonline.net/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 233.4265
+ 118.8558
+ 284.689
+ 130.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER54': class PDFDictionary 
+63 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FProfessional-JavaScript-Developers-Wrox-Guides%2Fdp%2F0764579088&tag=freesciencand-20&linkCode=ur2&camp=1789&creative=9325) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 371.0215
+ 107.6058
+ 517.7365
+ 118.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER55': class PDFDictionary 
+64 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://video.yahoo.com/video/play?vid=568351) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 104.629
+ 70.10581
+ 184.2415
+ 81.35581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+65 0 obj
+% Page dictionary
+<< /Annots [ 48 0 R
+ 49 0 R
+ 50 0 R
+ 51 0 R
+ 52 0 R
+ 53 0 R
+ 54 0 R
+ 55 0 R
+ 56 0 R
+ 57 0 R
+ 58 0 R
+ 59 0 R
+ 60 0 R
+ 61 0 R
+ 62 0 R
+ 63 0 R
+ 64 0 R ]
+ /Contents 270 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER56': class PDFDictionary 
+66 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/education) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 63.78396
+ 658.8558
+ 96.30396
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER57': class PDFDictionary 
+67 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/javascript) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 100.474
+ 658.8558
+ 132.1465
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER58': class PDFDictionary 
+68 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/js) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 136.3165
+ 658.8558
+ 141.7315
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER59': class PDFDictionary 
+69 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/jscript) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 145.9015
+ 658.8558
+ 165.484
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER60': class PDFDictionary 
+70 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/learning) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 169.654
+ 658.8558
+ 196.3315
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER61': class PDFDictionary 
+71 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/programming) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 200.5015
+ 658.8558
+ 244.6765
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER62': class PDFDictionary 
+72 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/video-lectures) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 248.8465
+ 658.8558
+ 295.114
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER63': class PDFDictionary 
+73 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/tag/yui-theater) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 299.284
+ 658.8558
+ 334.3015
+ 670.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER64': class PDFDictionary 
+74 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://del.icio.us/post?url=http%3A%2F%2Fwww.catonmat.net%2Fblog%2Flearning-javascript-programming-language-through-video-lectures%2F&title=Learning+JavaScript+Programming+Language+through+Video+Lectures) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 647.6058
+ 115.039
+ 658.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER65': class PDFDictionary 
+75 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://reddit.com/submit?url=http%3A%2F%2Fwww.catonmat.net%2Fblog%2Flearning-javascript-programming-language-through-video-lectures%2F&title=Learning+JavaScript+Programming+Language+through+Video+Lectures) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 636.3558
+ 77.53896
+ 647.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER66': class PDFDictionary 
+76 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.catonmat.net%2Fblog%2Flearning-javascript-programming-language-through-video-lectures%2F&title=Learning+JavaScript+Programming+Language+through+Video+Lectures) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 625.1058
+ 51.68646
+ 636.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER67': class PDFDictionary 
+77 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.catonmat.net%2Fblog%2Flearning-javascript-programming-language-through-video-lectures%2F&title=Learning+JavaScript+Programming+Language+through+Video+Lectures) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 613.8558
+ 63.77646
+ 625.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER68': class PDFDictionary 
+78 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/email/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 28.34646
+ 602.6058
+ 64.18896
+ 613.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER69': class PDFDictionary 
+79 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/print/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 32.38146
+ 591.3558
+ 64.89396
+ 602.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER70': class PDFDictionary 
+80 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 32.38146
+ 580.1058
+ 65.71896
+ 591.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER71': class PDFDictionary 
+81 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/trackback/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 32.38146
+ 568.8558
+ 66.97146
+ 580.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER72': class PDFDictionary 
+82 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-python-design-patterns-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 490.1058
+ 231.7765
+ 501.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER73': class PDFDictionary 
+83 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 478.8558
+ 258.874
+ 490.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER74': class PDFDictionary 
+84 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/video-lecture-best-practices-javascript-library-design/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 467.6058
+ 241.759
+ 478.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER75': class PDFDictionary 
+85 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/searching-and-mining-open-source-code-from-the-web/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 456.3558
+ 225.514
+ 467.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER76': class PDFDictionary 
+86 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/video-lecture-from-nand-to-tetris-in-12-steps/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 445.1058
+ 196.3315
+ 456.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER77': class PDFDictionary 
+87 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/revealing-reddit-score-with-firefox-and-greasemonkey/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 433.8558
+ 300.529
+ 445.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER78': class PDFDictionary 
+88 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/bjarne-stroustrup-video-lecture-on-cpp-standard/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 422.6058
+ 218.6215
+ 433.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER79': class PDFDictionary 
+89 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/how-reddit-top-and-hacker-top-programs-were-made/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 411.3558
+ 224.239
+ 422.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER80': class PDFDictionary 
+90 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/how-to-read-reddit-the-fanatic-programmer-way/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 400.1058
+ 206.734
+ 411.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER81': class PDFDictionary 
+91 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/follow-reddit-from-the-console/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 388.8558
+ 144.214
+ 400.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER82': class LinkAnnotation 
+92 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 28.34646
+ 354.6671
+ 0 ]
+ /Rect [ 39.59646
+ 336.8546
+ 113.3965
+ 345.2921 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER83': class LinkAnnotation 
+93 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 28.34646
+ 311.5421
+ 0 ]
+ /Rect [ 39.59646
+ 293.7296
+ 116.524
+ 302.1671 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER84': class LinkAnnotation 
+94 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 28.34646
+ 249.6671
+ 0 ]
+ /Rect [ 39.59646
+ 231.8546
+ 116.524
+ 240.2921 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER85': class PDFDictionary 
+95 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.webmaster-dz.com/2007/08/10/utiles/apprendre-javascript-par-la-video-par-douglas-crockford/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 185.9171
+ 281.209
+ 194.3546 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER86': class LinkAnnotation 
+96 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 28.34646
+ 195.2921
+ 0 ]
+ /Rect [ 39.59646
+ 177.4796
+ 113.3965
+ 185.9171 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER87': class PDFDictionary 
+97 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 142.7921
+ 92.52396
+ 151.2296 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER88': class LinkAnnotation 
+98 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 28.34646
+ 152.1671
+ 0 ]
+ /Rect [ 39.59646
+ 134.3546
+ 116.524
+ 142.7921 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER89': class PDFDictionary 
+99 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://developer.yahoo.com/yui/theater/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 72.86646
+ 99.66706
+ 113.299
+ 110.9171 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER90': class PDFDictionary 
+100 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.free-codecs.com/download/FFDShow.htm) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 155.389
+ 80.91706
+ 181.234
+ 92.16706 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER91': class PDFDictionary 
+101 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://simplyauser.wordpress.com/2007/08/11/links-for-2007-08-11/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 62.16706
+ 169.219
+ 70.60456 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER92': class LinkAnnotation 
+102 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 103 0 R
+ /XYZ
+ 28.34646
+ 71.54206
+ 0 ]
+ /Rect [ 39.59646
+ 53.72956
+ 113.3965
+ 62.16706 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+103 0 obj
+% Page dictionary
+<< /Annots [ 66 0 R
+ 67 0 R
+ 68 0 R
+ 69 0 R
+ 70 0 R
+ 71 0 R
+ 72 0 R
+ 73 0 R
+ 74 0 R
+ 75 0 R
+ 76 0 R
+ 77 0 R
+ 78 0 R
+ 79 0 R
+ 80 0 R
+ 81 0 R
+ 82 0 R
+ 83 0 R
+ 84 0 R
+ 85 0 R
+ 86 0 R
+ 87 0 R
+ 88 0 R
+ 89 0 R
+ 90 0 R
+ 91 0 R
+ 92 0 R
+ 93 0 R
+ 94 0 R
+ 95 0 R
+ 96 0 R
+ 97 0 R
+ 98 0 R
+ 99 0 R
+ 100 0 R
+ 101 0 R
+ 102 0 R ]
+ /Contents 271 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER93': class PDFDictionary 
+104 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://log.eckelmann.com.au/archives/21) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 775.1058
+ 240.109
+ 783.5433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER94': class LinkAnnotation 
+105 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 784.4808
+ 0 ]
+ /Rect [ 39.59646
+ 766.6683
+ 116.524
+ 775.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER95': class PDFDictionary 
+106 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://silentwalker.wordpress.com/2007/08/13/a-few-good-links/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 731.9808
+ 146.719
+ 740.4183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER96': class LinkAnnotation 
+107 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 741.3558
+ 0 ]
+ /Rect [ 39.59646
+ 723.5433
+ 113.3965
+ 731.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER97': class LinkAnnotation 
+108 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 686.9808
+ 0 ]
+ /Rect [ 39.59646
+ 669.1683
+ 113.3965
+ 677.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER98': class PDFDictionary 
+109 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://freevideolectures.com/webdesign.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 630.7308
+ 185.9065
+ 641.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER99': class PDFDictionary 
+110 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scottpotter.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 611.9808
+ 59.23896
+ 620.4183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER100': class LinkAnnotation 
+111 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 621.3558
+ 0 ]
+ /Rect [ 39.59646
+ 603.5433
+ 116.524
+ 611.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER101': class LinkAnnotation 
+112 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 578.2308
+ 0 ]
+ /Rect [ 39.59646
+ 560.4183
+ 113.3965
+ 568.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER102': class LinkAnnotation 
+113 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 501.3558
+ 0 ]
+ /Rect [ 39.59646
+ 483.5433
+ 119.9552
+ 491.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER103': class PDFDictionary 
+114 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.joselise.com/wp/2007/09/02/links-for-2007-09-02/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 287.6058
+ 181.369
+ 296.0433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER104': class LinkAnnotation 
+115 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 296.9808
+ 0 ]
+ /Rect [ 39.59646
+ 279.1683
+ 121.834
+ 287.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER105': class PDFDictionary 
+116 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 233.2308
+ 95.07396
+ 241.6683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER106': class LinkAnnotation 
+117 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 242.6058
+ 0 ]
+ /Rect [ 39.59646
+ 224.7933
+ 120.2702
+ 233.2308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER107': class LinkAnnotation 
+118 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 180.7308
+ 0 ]
+ /Rect [ 39.59646
+ 162.9183
+ 112.7665
+ 171.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER108': class LinkAnnotation 
+119 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 120 0 R
+ /XYZ
+ 28.34646
+ 126.3558
+ 0 ]
+ /Rect [ 39.59646
+ 108.5433
+ 121.8283
+ 116.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+120 0 obj
+% Page dictionary
+<< /Annots [ 104 0 R
+ 105 0 R
+ 106 0 R
+ 107 0 R
+ 108 0 R
+ 109 0 R
+ 110 0 R
+ 111 0 R
+ 112 0 R
+ 113 0 R
+ 114 0 R
+ 115 0 R
+ 116 0 R
+ 117 0 R
+ 118 0 R
+ 119 0 R ]
+ /Contents 272 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER109': class PDFDictionary 
+121 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 786.3558
+ 95.07396
+ 794.7933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER110': class LinkAnnotation 
+122 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 795.7308
+ 0 ]
+ /Rect [ 39.59646
+ 777.9183
+ 118.3858
+ 786.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER111': class PDFDictionary 
+123 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://freescienceonline.blogspot.com/2007/11/computer-science-video-lectures.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 750.7308
+ 215.0815
+ 761.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER112': class PDFDictionary 
+124 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://devel.njit.edu/%7Emedia/CIS%20602/index.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 739.4808
+ 102.529
+ 750.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER113': class PDFDictionary 
+125 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://cpe.njit.edu/dlvideos/CIS/CIS375%2D602/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 728.2308
+ 158.8165
+ 739.4808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER114': class PDFDictionary 
+126 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.languagebyvideo.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 690.7308
+ 74.23146
+ 699.1683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER115': class LinkAnnotation 
+127 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 700.1058
+ 0 ]
+ /Rect [ 39.59646
+ 682.2933
+ 115.894
+ 690.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER116': class PDFDictionary 
+128 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.languagebyvideo.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 332.9965
+ 666.3558
+ 443.044
+ 677.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER117': class LinkAnnotation 
+129 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 656.9808
+ 0 ]
+ /Rect [ 39.59646
+ 639.1683
+ 117.4577
+ 647.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER118': class PDFDictionary 
+130 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 570.7308
+ 369.814
+ 579.1683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER119': class LinkAnnotation 
+131 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 580.1058
+ 0 ]
+ /Rect [ 39.59646
+ 562.2933
+ 108.3846
+ 570.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER120': class PDFDictionary 
+132 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://mybuywatcher.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 516.3558
+ 52.57146
+ 524.7933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER121': class LinkAnnotation 
+133 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 525.7308
+ 0 ]
+ /Rect [ 39.59646
+ 507.9183
+ 111.5121
+ 516.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER122': class PDFDictionary 
+134 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://mybuywatcher.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 420.7308
+ 122.959
+ 431.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F6': class PDFType1Font 
+135 0 obj
+% Font ZapfDingbats
+<< /BaseFont /ZapfDingbats
+ /Encoding /ZapfDingbatsEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER123': class PDFDictionary 
+136 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://lioryair.wordpress.com/2008/04/12/javascript-%d7%9c%d7%9c%d7%9e%d7%95%d7%93-%d7%90%d7%aa-%d7%94%d7%a9%d7%a4%d7%94/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 401.9808
+ 240.8065
+ 410.4183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER124': class LinkAnnotation 
+137 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 411.3558
+ 0 ]
+ /Rect [ 39.59646
+ 393.5433
+ 107.1358
+ 401.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER125': class PDFDictionary 
+138 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 68.27646
+ 377.6058
+ 387.139
+ 388.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER126': class LinkAnnotation 
+139 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 368.2308
+ 0 ]
+ /Rect [ 39.59646
+ 350.4183
+ 110.2633
+ 358.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER127': class PDFDictionary 
+140 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.derblub.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 135.7308
+ 56.32146
+ 144.1683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER128': class LinkAnnotation 
+141 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 145.1058
+ 0 ]
+ /Rect [ 39.59646
+ 127.2933
+ 106.5115
+ 135.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER129': class PDFDictionary 
+142 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.nixty.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 92.60581
+ 87.15396
+ 101.0433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER130': class LinkAnnotation 
+143 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 144 0 R
+ /XYZ
+ 28.34646
+ 101.9808
+ 0 ]
+ /Rect [ 39.59646
+ 84.16831
+ 106.5115
+ 92.60581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page7': class PDFPage 
+144 0 obj
+% Page dictionary
+<< /Annots [ 121 0 R
+ 122 0 R
+ 123 0 R
+ 124 0 R
+ 125 0 R
+ 126 0 R
+ 127 0 R
+ 128 0 R
+ 129 0 R
+ 130 0 R
+ 131 0 R
+ 132 0 R
+ 133 0 R
+ 134 0 R
+ 136 0 R
+ 137 0 R
+ 138 0 R
+ 139 0 R
+ 140 0 R
+ 141 0 R
+ 142 0 R
+ 143 0 R ]
+ /Contents 273 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER131': class PDFDictionary 
+145 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.kabytes.com/programacion/videos-para-aprender-a-programar-javascript/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 805.1058
+ 226.2565
+ 813.5433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER132': class LinkAnnotation 
+146 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 814.4808
+ 0 ]
+ /Rect [ 39.59646
+ 796.6683
+ 106.5115
+ 805.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER133': class LinkAnnotation 
+147 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 771.3558
+ 0 ]
+ /Rect [ 39.59646
+ 753.5433
+ 106.5115
+ 761.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER134': class PDFDictionary 
+148 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://eloquentjavascript.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 718.8558
+ 87.99396
+ 727.2933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER135': class LinkAnnotation 
+149 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 728.2308
+ 0 ]
+ /Rect [ 39.59646
+ 710.4183
+ 106.5115
+ 718.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER136': class PDFDictionary 
+150 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://eloquentjavascript.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 92.86896
+ 694.4808
+ 102.454
+ 705.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER137': class PDFDictionary 
+151 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://code.google.com/doctype/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 104.539
+ 694.4808
+ 110.794
+ 705.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER138': class PDFDictionary 
+152 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://javascript.crockford.com/javascript.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 112.879
+ 694.4808
+ 129.9715
+ 705.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER139': class PDFDictionary 
+153 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://developer.mozilla.org/en/docs/Gecko_DOM_Reference) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 132.0565
+ 694.4808
+ 140.809
+ 705.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER140': class PDFDictionary 
+154 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.ecma-international.org/cgi-bin/counters/unicounter.pl?name=Ecma-262&deliver=http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 142.894
+ 694.4808
+ 175.819
+ 705.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER141': class PDFDictionary 
+155 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://leisureguy.wordpress.com/2008/05/15/need-to-learn-javascript/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 675.7308
+ 165.9565
+ 684.1683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER142': class LinkAnnotation 
+156 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 685.1058
+ 0 ]
+ /Rect [ 39.59646
+ 667.2933
+ 106.5115
+ 675.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER143': class PDFDictionary 
+157 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://espadas.com.mx/2008/05/15/recursos-para-programadores-web/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 621.3558
+ 320.869
+ 629.7933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER144': class LinkAnnotation 
+158 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 630.7308
+ 0 ]
+ /Rect [ 39.59646
+ 612.9183
+ 106.5115
+ 621.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER145': class PDFDictionary 
+159 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://mikepence.wordpress.com/2008/05/15/links-for-2008-05-16/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 566.9808
+ 170.944
+ 575.4183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER146': class LinkAnnotation 
+160 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 576.3558
+ 0 ]
+ /Rect [ 39.59646
+ 558.5433
+ 106.5115
+ 566.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER147': class PDFDictionary 
+161 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.joselise.com/wp/2008/05/16/links-for-2008-05-16/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 523.8558
+ 181.369
+ 532.2933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER148': class LinkAnnotation 
+162 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 533.2308
+ 0 ]
+ /Rect [ 39.59646
+ 515.4183
+ 106.5115
+ 523.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER149': class PDFDictionary 
+163 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://mandarine.wordpress.com/2008/05/16/links-for-2008-05-16/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 469.4808
+ 152.194
+ 477.9183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER150': class LinkAnnotation 
+164 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 478.8558
+ 0 ]
+ /Rect [ 39.59646
+ 461.0433
+ 106.5115
+ 469.4808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER151': class PDFDictionary 
+165 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.developers.org.ua/archives/max/2008/05/16/weekly-linkdump-126/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 403.8558
+ 244.204
+ 412.2933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER152': class LinkAnnotation 
+166 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 413.2308
+ 0 ]
+ /Rect [ 39.59646
+ 395.4183
+ 109.639
+ 403.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER153': class PDFDictionary 
+167 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://edt11x.wordpress.com/2008/05/17/links-for-2008-05-17/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 349.4808
+ 241.0015
+ 357.9183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER154': class LinkAnnotation 
+168 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 358.8558
+ 0 ]
+ /Rect [ 39.59646
+ 341.0433
+ 106.5115
+ 349.4808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER155': class PDFDictionary 
+169 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://technofriends.in/2008/05/17/what-is-javascript-and-some-must-watch-tutorial-videos/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 295.1058
+ 282.2365
+ 303.5433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER156': class LinkAnnotation 
+170 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 304.4808
+ 0 ]
+ /Rect [ 39.59646
+ 286.6683
+ 106.5115
+ 295.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER157': class LinkAnnotation 
+171 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 261.3558
+ 0 ]
+ /Rect [ 39.59646
+ 243.5433
+ 106.1965
+ 251.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER158': class PDFDictionary 
+172 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 178.8558
+ 95.07396
+ 187.2933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER159': class LinkAnnotation 
+173 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 188.2308
+ 0 ]
+ /Rect [ 39.59646
+ 170.4183
+ 106.5115
+ 178.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER160': class LinkAnnotation 
+174 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 145.1058
+ 0 ]
+ /Rect [ 39.59646
+ 127.2933
+ 105.8871
+ 135.7308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER161': class LinkAnnotation 
+175 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 176 0 R
+ /XYZ
+ 28.34646
+ 101.9808
+ 0 ]
+ /Rect [ 39.59646
+ 84.16831
+ 105.5721
+ 92.60581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page8': class PDFPage 
+176 0 obj
+% Page dictionary
+<< /Annots [ 145 0 R
+ 146 0 R
+ 147 0 R
+ 148 0 R
+ 149 0 R
+ 150 0 R
+ 151 0 R
+ 152 0 R
+ 153 0 R
+ 154 0 R
+ 155 0 R
+ 156 0 R
+ 157 0 R
+ 158 0 R
+ 159 0 R
+ 160 0 R
+ 161 0 R
+ 162 0 R
+ 163 0 R
+ 164 0 R
+ 165 0 R
+ 166 0 R
+ 167 0 R
+ 168 0 R
+ 169 0 R
+ 170 0 R
+ 171 0 R
+ 172 0 R
+ 173 0 R
+ 174 0 R
+ 175 0 R ]
+ /Contents 274 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER162': class PDFDictionary 
+177 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 715.1058
+ 95.07396
+ 723.5433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER163': class LinkAnnotation 
+178 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 198 0 R
+ /XYZ
+ 28.34646
+ 724.4808
+ 0 ]
+ /Rect [ 39.59646
+ 706.6683
+ 110.5783
+ 715.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER164': class PDFDictionary 
+179 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/a-year-of-blogging/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 649.4808
+ 213.0715
+ 657.9183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER165': class LinkAnnotation 
+180 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 198 0 R
+ /XYZ
+ 28.34646
+ 658.8558
+ 0 ]
+ /Rect [ 39.59646
+ 641.0433
+ 107.4508
+ 649.4808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER166': class PDFDictionary 
+181 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.askarize.com/2008/07/22/learn-javascript-programming-with-these-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 606.3558
+ 280.009
+ 614.7933 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER167': class LinkAnnotation 
+182 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 198 0 R
+ /XYZ
+ 28.34646
+ 615.7308
+ 0 ]
+ /Rect [ 39.59646
+ 597.9183
+ 107.4508
+ 606.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER168': class PDFDictionary 
+183 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://another.45miles.de/bookmarks-for-april-29th-through-august-4th/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 563.2308
+ 265.0315
+ 571.6683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER169': class LinkAnnotation 
+184 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 198 0 R
+ /XYZ
+ 28.34646
+ 572.6058
+ 0 ]
+ /Rect [ 39.59646
+ 554.7933
+ 113.3965
+ 563.2308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER170': class PDFDictionary 
+185 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/mit-introduction-to-algorithms-part-one/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 42.14646
+ 520.1058
+ 316.024
+ 528.5433 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER171': class LinkAnnotation 
+186 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 198 0 R
+ /XYZ
+ 28.34646
+ 529.4808
+ 0 ]
+ /Rect [ 39.59646
+ 511.6683
+ 113.3965
+ 520.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER172': class PDFDictionary 
+187 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.feedburner.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 305.344
+ 189.7308
+ 344.944
+ 200.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER173': class PDFDictionary 
+188 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.zigzap.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 123.8065
+ 149.9808
+ 192.5815
+ 161.2308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER174': class PDFDictionary 
+189 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.zigzap.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 537.739
+ 149.9808
+ 561.079
+ 161.2308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER175': class PDFDictionary 
+190 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.zigzap.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 138.7308
+ 55.43646
+ 149.9808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER176': class PDFDictionary 
+191 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/mit-introduction-to-algorithms-part-three/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 101.2308
+ 232.7815
+ 112.4808 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER177': class PDFDictionary 
+192 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/musical-geek-friday-alice-and-bob/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 89.98081
+ 172.984
+ 101.2308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER178': class PDFDictionary 
+193 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/mit-introduction-to-algorithms-part-two/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 78.73081
+ 250.699
+ 89.98081 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER179': class PDFDictionary 
+194 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/mit-introduction-to-algorithms-part-one/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 67.48081
+ 204.8515
+ 78.73081 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER180': class PDFDictionary 
+195 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/musical-geek-friday-song-for-hackers-and-crackers/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 56.23081
+ 233.824
+ 67.48081 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER181': class PDFDictionary 
+196 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/traffic-accounting-with-iptables/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 44.98081
+ 166.729
+ 56.23081 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER182': class PDFDictionary 
+197 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/better-faster-smarter-python-yesterday-today-and-tomorrow/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 33.73081
+ 174.2365
+ 44.98081 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page9': class PDFPage 
+198 0 obj
+% Page dictionary
+<< /Annots [ 177 0 R
+ 178 0 R
+ 179 0 R
+ 180 0 R
+ 181 0 R
+ 182 0 R
+ 183 0 R
+ 184 0 R
+ 185 0 R
+ 186 0 R
+ 187 0 R
+ 188 0 R
+ 189 0 R
+ 190 0 R
+ 191 0 R
+ 192 0 R
+ 193 0 R
+ 194 0 R
+ 195 0 R
+ 196 0 R
+ 197 0 R ]
+ /Contents 275 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER183': class PDFDictionary 
+199 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/musical-geek-friday-every-os-sucks/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 805.1058
+ 181.309
+ 816.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER184': class PDFDictionary 
+200 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/performance-tuning-best-practices-for-mysql/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 793.8558
+ 195.484
+ 805.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER185': class PDFDictionary 
+201 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/how-reddit-top-and-hacker-top-programs-were-made/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 782.6058
+ 224.239
+ 793.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER186': class PDFDictionary 
+202 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-javascript-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 745.1058
+ 268.039
+ 756.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER187': class PDFDictionary 
+203 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/the-definitive-guide-to-bash-command-line-history/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 733.8558
+ 213.409
+ 745.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER188': class PDFDictionary 
+204 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/bash-vi-editing-mode-cheat-sheet/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 722.6058
+ 314.044
+ 733.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER189': class PDFDictionary 
+205 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/how-to-extract-audio-tracks-from-youtube-videos/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 711.3558
+ 208.8265
+ 722.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER190': class PDFDictionary 
+206 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/downloading-youtube-videos-with-a-perl-one-liner/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 700.1058
+ 207.5815
+ 711.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER191': class PDFDictionary 
+207 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/designing-digg-picture-website/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 688.8558
+ 212.989
+ 700.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER192': class PDFDictionary 
+208 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 677.6058
+ 258.874
+ 688.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER193': class PDFDictionary 
+209 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 666.3558
+ 173.8165
+ 677.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER194': class PDFDictionary 
+210 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/bash-emacs-editing-mode-cheat-sheet/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 655.1058
+ 171.3265
+ 666.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER195': class PDFDictionary 
+211 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/screen-terminal-emulator-cheat-sheet/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 643.8558
+ 214.249
+ 655.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER196': class PDFDictionary 
+212 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/sed.stream.editor.cheat.sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 606.3558
+ 185.914
+ 617.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER197': class PDFDictionary 
+213 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/perl.pack.unpack.printf.cheat.sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 595.1058
+ 223.204
+ 606.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER198': class PDFDictionary 
+214 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/awk.cheat.sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 583.8558
+ 141.3115
+ 595.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER199': class PDFDictionary 
+215 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/screen.cheat.sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 572.6058
+ 146.314
+ 583.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER200': class PDFDictionary 
+216 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/awk.cheat.sheet.txt) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 561.3558
+ 134.6365
+ 572.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER201': class PDFDictionary 
+217 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/sed.stream.editor.cheat.sheet.txt) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 550.1058
+ 179.239
+ 561.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER202': class PDFDictionary 
+218 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/bash-vi-editing-mode-cheat-sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 538.8558
+ 192.589
+ 550.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER203': class PDFDictionary 
+219 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/perl.predefined.variables.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 527.6058
+ 195.259
+ 538.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER204': class PDFDictionary 
+220 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/bash-history-cheat-sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 516.3558
+ 164.239
+ 527.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER205': class PDFDictionary 
+221 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/crypt-o.mp3) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 505.1058
+ 184.639
+ 516.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER206': class PDFDictionary 
+222 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/model_view_controller_song.mp3) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 493.8558
+ 251.3215
+ 505.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER207': class PDFDictionary 
+223 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 482.6058
+ 174.6565
+ 493.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER208': class PDFDictionary 
+224 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/get_youtube_vids.awk) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 471.3558
+ 170.494
+ 482.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER209': class PDFDictionary 
+225 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/ed.text.editor.cheat.sheet.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 460.1058
+ 167.164
+ 471.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER210': class PDFDictionary 
+226 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/download/ytdown.vbs) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 448.8558
+ 178.8265
+ 460.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER211': class PDFDictionary 
+227 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/mit-introduction-to-algorithms-part-three/#comment-4658) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 411.3558
+ 92.11146
+ 422.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER212': class PDFDictionary 
+228 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/about/#comment-4656) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 400.1058
+ 60.85146
+ 411.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER213': class PDFDictionary 
+229 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/projects/#comment-4650) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 388.8558
+ 80.01396
+ 400.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER214': class PDFDictionary 
+230 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/about/#comment-4648) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 377.6058
+ 80.01396
+ 388.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER215': class PDFDictionary 
+231 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/screen-terminal-emulator-cheat-sheet/#comment-4627) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 366.3558
+ 66.69396
+ 377.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER216': class PDFDictionary 
+232 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/cheat-sheets/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 328.8558
+ 85.03896
+ 340.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER217': class PDFDictionary 
+233 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/hackers-approach/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 317.6058
+ 102.7165
+ 328.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER218': class PDFDictionary 
+234 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/howto/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 306.3558
+ 60.85146
+ 317.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER219': class PDFDictionary 
+235 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/introduction-to-algorithms/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 295.1058
+ 124.6315
+ 306.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER220': class PDFDictionary 
+236 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/misc/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 283.8558
+ 55.00896
+ 295.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER221': class PDFDictionary 
+237 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/musical-geek-friday/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 272.6058
+ 107.944
+ 283.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER222': class PDFDictionary 
+238 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/programming/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 261.3558
+ 84.60396
+ 272.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER223': class PDFDictionary 
+239 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/security/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 250.1058
+ 66.68646
+ 261.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER224': class PDFDictionary 
+240 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/tools/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 238.8558
+ 57.93396
+ 250.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER225': class PDFDictionary 
+241 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/category/video-lectures/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 227.6058
+ 89.62146
+ 238.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER226': class PDFDictionary 
+242 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/08/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 190.1058
+ 81.70896
+ 201.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER227': class PDFDictionary 
+243 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/07/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 178.8558
+ 71.69646
+ 190.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER228': class PDFDictionary 
+244 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/06/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 167.6058
+ 74.62146
+ 178.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER229': class PDFDictionary 
+245 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/05/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 156.3558
+ 72.52896
+ 167.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER230': class PDFDictionary 
+246 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/04/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 145.1058
+ 73.36146
+ 156.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER231': class PDFDictionary 
+247 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/03/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 133.8558
+ 79.19646
+ 145.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER232': class PDFDictionary 
+248 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/02/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 122.6058
+ 88.36896
+ 133.8558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER233': class PDFDictionary 
+249 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2008/01/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 111.3558
+ 85.03896
+ 122.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER234': class PDFDictionary 
+250 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2007/11/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 100.1058
+ 92.95146
+ 111.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER235': class PDFDictionary 
+251 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2007/10/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 88.85581
+ 85.03896
+ 100.1058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER236': class PDFDictionary 
+252 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2007/09/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 77.60581
+ 95.04396
+ 88.85581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER237': class PDFDictionary 
+253 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2007/08/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 66.35581
+ 81.70896
+ 77.60581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER238': class PDFDictionary 
+254 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.catonmat.net/blog/2007/07/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 55.10581
+ 71.69646
+ 66.35581 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page10': class PDFPage 
+255 0 obj
+% Page dictionary
+<< /Annots [ 199 0 R
+ 200 0 R
+ 201 0 R
+ 202 0 R
+ 203 0 R
+ 204 0 R
+ 205 0 R
+ 206 0 R
+ 207 0 R
+ 208 0 R
+ 209 0 R
+ 210 0 R
+ 211 0 R
+ 212 0 R
+ 213 0 R
+ 214 0 R
+ 215 0 R
+ 216 0 R
+ 217 0 R
+ 218 0 R
+ 219 0 R
+ 220 0 R
+ 221 0 R
+ 222 0 R
+ 223 0 R
+ 224 0 R
+ 225 0 R
+ 226 0 R
+ 227 0 R
+ 228 0 R
+ 229 0 R
+ 230 0 R
+ 231 0 R
+ 232 0 R
+ 233 0 R
+ 234 0 R
+ 235 0 R
+ 236 0 R
+ 237 0 R
+ 238 0 R
+ 239 0 R
+ 240 0 R
+ 241 0 R
+ 242 0 R
+ 243 0 R
+ 244 0 R
+ 245 0 R
+ 246 0 R
+ 247 0 R
+ 248 0 R
+ 249 0 R
+ 250 0 R
+ 251 0 R
+ 252 0 R
+ 253 0 R
+ 254 0 R ]
+ /Contents 276 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER239': class PDFDictionary 
+256 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://freescienceonline.blogspot.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 786.3558
+ 142.129
+ 797.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER240': class PDFDictionary 
+257 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.FreeScienceLectures.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 775.1058
+ 108.7915
+ 786.3558 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER241': class PDFDictionary 
+258 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.kaushalsheth.com/exquisite-wordpress-theme/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 163.8115
+ 711.3558
+ 194.239
+ 722.6058 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page11': class PDFPage 
+259 0 obj
+% Page dictionary
+<< /Annots [ 256 0 R
+ 257 0 R
+ 258 0 R ]
+ /Contents 277 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 266 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R260': class PDFCatalog 
+260 0 obj
+% Document Root
+<< /Outlines 262 0 R
+ /PageMode /UseNone
+ /Pages 266 0 R
+ /Type /Catalog >>
+endobj
+% 'R261': class PDFInfo 
+261 0 obj
+<< /Author ()
+ /CreationDate (20080827121406)
+ /Keywords (education, javascript, js, jscript, learning, programming, video lectures, yui theater)
+ /Producer (pisa HTML to PDF <http://www.htmltopdf.org>)
+ /Subject ()
+ /Title (Learning JavaScript Programming Language through Video Lectures - good coders code, great reuse) >>
+endobj
+% 'R262': class PDFOutlines 
+262 0 obj
+<< /Count 2
+ /First 263 0 R
+ /Last 263 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+263 0 obj
+<< /Count -2
+ /Dest [ 32 0 R
+ /Fit ]
+ /First 264 0 R
+ /Last 265 0 R
+ /Parent 262 0 R
+ /Title (Learning JavaScript Programming Language through Video Lectures ) >>
+endobj
+% 'Outline.2.0': class OutlineEntryObject 
+264 0 obj
+<< /Dest [ 32 0 R
+ /Fit ]
+ /Next 265 0 R
+ /Parent 263 0 R
+ /Title (My approach to watching video lectures) >>
+endobj
+% 'Outline.2.1': class OutlineEntryObject 
+265 0 obj
+<< /Dest [ 103 0 R
+ /Fit ]
+ /Parent 263 0 R
+ /Prev 264 0 R
+ /Title (45 Responses) >>
+endobj
+% 'R266': class PDFPages 
+266 0 obj
+% page tree
+<< /Count 11
+ /Kids [ 32 0 R
+ 42 0 R
+ 47 0 R
+ 65 0 R
+ 103 0 R
+ 120 0 R
+ 144 0 R
+ 176 0 R
+ 198 0 R
+ 255 0 R
+ 259 0 R ]
+ /Type /Pages >>
+endobj
+% 'R267': class PDFStream 
+267 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3722 >>
+stream
+Gb!#^?$"c/&q/)"rkmmC\`4h1VNdE/Bq)KtfL^DVRnRJm!`>&tQm>X][%dH`mk-kf'IDLuPr>3jWC2<Qio'1V"Vr^Mpr>8l-9;!G"g?gqi-K?""#jTg>b/dEX67h.HN*7Ao<2B5i/O*G6pUr#a(*uYp[Ro>c"t/W&bb$EoiW9O<Gk9a=\-GiBe7=&;=hDL34X4mpa'0n20R[Pe9plP5JKC3<e0Kk0*I>q>l7q=5(.8iA8o(jNGZAL,5VHPIe&uPKc0LI?Y7qT2ZN/3,TaSA$(a%!AEshPHrBO984l#bPBb=2-dIm278\F@9AW<AjTf0+NEGu:GnNV;+EEm9,3R/.OG*.&(R#tLmcZ&RGq[*X_NUJJW!(LH(R2^Jr\9eQS]IgaMZZAUMof7AS;r5=AnNZArS@Y.0d_.9&D)Ns7:b)Hn89T'R:luq)(bQb!1p=f>/Mi?$Sd?U_+Vl$ON;fPPsW;Z<nS06fM7(WH4?^(8t3$:X;%()/n?+B>c^XAfVtaW"dH%(a(J4>aCI$G^2=:gJd).Uqq12l+hTn#^%7"2AG>W?hd,]C^2d3Z\1EoH1tm>T7,6%;BKT*A]!QT`b(^CIH@B*a(pT4T[W*<(^W6:RhkQNn\DqeDiu7?5:8^Fq3<n>4#odM\@KAJ@1_8sm(oQPSkBU7T\!qT`Glg_HDlYmCNYA0T]Km3sq-[!W7`VIVrSDRC@a')q5%ooJ_YR-Mr``M4I1#1?MU06\fQh2W4/=fU#3#5Jo@pLK`k`6ibl(JJ7\?2D5/l%R`ZFcseuW84r5&u"H%O@3j3W!uMXuDB>X'4;cPiZFghLW1+`k\Q4l;?TL@8`s!P/='7raU=k5p?f-N#s?jd1frQR-`U$g50i=1G3-OXLt9"mg5\5o?:QBUJ[!2085H?"Yi+$!K2Tfj4-B,XFrnV2="cX)'SmM'u6i8['#$"CDkIm'KCn84t'+k66PGr-<n,[B0gfHj:sBQEAPf>ER#RNm3J>bb^h]^.GZ460Q8Z24RVhE]k<M"DgH*0OuDl6\inCBHMC2F<8uNniWNJEMoLc];C*Bp)4-T`5Z\m@H`%$:qI0dgt5h!Z'iMIH,'j>ZEhRP0&a1@gtX/CjW`5/alL)fp.O]aa9V"LKQr\KS7-$'-)dj-GPGJNN42A.MF>8#,"i<kn!"$.eKR^'JAWS5^fiIf=)X)UA[UEH1d)t$$VDgn@pST3<O6JeoB[h69<$,6Lk`t[6YE\kQ>9*&C/u8pG9(/IMGlbL64l^1Ec`@;+M0hXi%h.nSf'd%Qs1Su)5#p7EcRXY,(_&."e"E?,s!-ZVU4tO^=F.TNfR;G(2NP=>V!4"rSIBnfDT>Sk%(FY6i$30/f?dg--$&X*:s7j?qt7g!n.gtql"-(d$EMEI?0)"G9[[IK76!@Ut$No^#+IF%$h>G3A0JW]d8BfiSuR.3ASg?Io\>8R7T:'o5M+!L@V!+OijeKH`N;5mUD@mO:m'6Kp45-r$JB<8t_*(mhLAD!mtd0eW!Gn!]/SFQ1Q9T`sEcU1d(UW94"JdffIGn/cP_>j+j4gf.RXGDg*=&[\_/W&*%O9J"J4_$hRN.]`=5.%,Hg,1stBPRm?^[Yj&uK@%dL=RpDB-ooIbmFr7KLcG1g1:rA&u21!J%s2.r-/ABlhNsFtNZsjI@:RtXUao@?&*<9.$1&%YGCQ*.Ue5>!'G^Y#\>^*R^NoAmo_=/)$VD?CnL2DaHVaCJ^gVcT1-.SThnYK3"r;s.Uj9RuWVah"hRdis][(Y3QgYGc"eN$[I2.^`o2X1J-V[=bCXu,eUM6*#m)('32mYg$0HNtf\pDuili;r'R\=NIc#rgtWrL!;%HHS%(S9@6p!<LGjnc:<P=`DmTD1g0rTcqW%5PYj+@n4Q[DXYA^!'[/*+1,LA@IO*1o148sC(pQZdUA;F<!lN]#]cn4GG![8s6\rP0?irMmV=2KXD9l[^J2ZS&\q]F)Yf9"Nm6fRr=e;CZG7Nr<g\3rU7dKuQk&!epq`$CTpe2p`4U(;OGC@;gt=NqYsZQjSRuAeNLcVPhlj@JBmY?r[J]FZoN#\:JFdlW\4Ubg?L=9,[kcXiLXIX/hM)7pK`C*:'ql^<8*+S(*&lOFf-D[plGGpYI_;]3cpVu!h^.D5@QO`@_q%ROa`I!aheV:u0oOg^UL;=*?%;Z_#CNUK'pq]BZFCW<MGa[t5FoIgb0od_<9sD-%t=>!1!m='n+3SG*dE2CH37W>o8'`c!$*HRY2'@L*;.p$8?56s0g9(e,*=,*HO0TGh_SFQNcAk/K\+-mHaLs(8Wg<ZPFIb<)];^^_m5_A[Oc=Q<$FU0AF&1\2pV)q"M3HEe\OPk44W=6XU]NLqA?I@qNZ&m?g0iSZE.ZEa2*%&)r1FQ_Jo/"$k%L"NP$20!636XI6C09cUNI7)NsAqDR@?`M'GqkM.A'!`GSO\nAO+%bl%7O$Nr*MPsQkdX;Bh/#!3/1GV4'G&&"Ni3W8Q,n)*.`YbOR'V3q*h$S/),ZI8]o%iofa/=5Ri!NZH+FBl%ZE.Le=Hd+QN@sFCgq@o6R[5ePrX-^572qM<A/Ou4E/DZS^Mm=T9bTO3bl3U$X@n3PY'[:0S8J3?S?RQXRZP,%-odi=[P2?NpenicJPacbaY>G(e(6E'3CXu_r3-f0%$)X#0M@sL3T1W&M5s5lRQb9O;f-LTW3\"u'm0jV6Cp*U_;U6eWF6W+Z5su)hX*-;<kEO?rT4:d:RMWBMId,-QVq4j.@ju<^1,R(FHt"GP'T"Pb,(ObKkU0:tjQ2tZ>\@nedCSrKc/:kkOl\phK&FQuC,Jio`rbV#%:As#^pC)t5t?t8#!Psh9\U@Fp_W::pGU4:>3Hb.f5;\tOVABV';[tJ&KIZCM/WqZjPpk#n?]21UAG*QDEGh'iA)#d+<uZu/DrOo`4DYE`U9h]:.Z-[9m]B>&.pJ$-(-UQF6!fGFm3\%4@;a+.P'm8f0k)*Lhe&,:JI&@YHuC.0i7*d[^nX7j;4e(HUC)@hjMh0f3p._2El_qJpbTjn0CBH:F'#jl^,]7Eck!$fu?mT6I#!E/RqtQ4nAdi"jf4b;anR&]FAi7/AqQ*(gPS)aSU<:la6YRA5ZV?:0ppn13R_lllsp9d0u:.ljJB%BW7#cpf#0?@D9RSbUVodk[t_0)\j*3l2'hOWqI9W=_=VVs0J!.=85Nkl1PQGkGn\Mo#>Kf"F9IlV-VinA_>dLTYfV$E$e^k2CZ9N(emGD]o]'BjdXM9^4m0h-KX_?7e<S.C9B*3Z#cW6!=g#Ps#`+[N!C%a:X$(h'=sVGS]1b*4kNG@\``gMFlOegQ;V<5h*WGWoK/2b[+i)SNgSR'4!d"N"A?Hc!NK2[DS4c8DIA)"^EG\?VUGtC2g^NTegZ'n9YQ<`-g9&lZ+BDRf8XSP[MOoW:0P8$IG/t5k%K1nfS#qI&^+(eQ=r'-V:)PAAfu-mHA-nWqe*G.-!dWDMuBk7pp4!\'@8b^KtJQO3"<:iSPsmY-7r"P;:6N\kE5mb@pQ4,I0V=>.,IRmV%(EPjJ/MRB$L:=XneG7Bhn9^30bB-dk'U\77:5>-@iA?Zo)mWgu3!FAXec3^*-f0?(0Is9>8t$RiQJI(GXN'fF8$kBA*W#hFZelcEW46F%`MrGN(ZM@Q+.[$0UQ#J_3XjN`L&.(b\UpAXCXgDmML.g@uTs7WPe$pn1ec\QL]SUQ&6;<gk(r.ci"*TWG-;Is1=7kKj,<_7e/_~>endstream
+
+endobj
+% 'R268': class PDFStream 
+268 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 4677 >>
+stream
+Gb!;hgN)%.&q*PUrW2mOjm4H:??N<n6W-Kf4Z/_>`%u[@mfPsE'#u8kiPi6;Zi@b;)^IjXS5=BD*E?!t9E?8\d!]lEd>T;dr,MLER#4r]inLr&E*RB;(QNG0io145k2PWh5Ft(7R=@8?#Bt!0rm2aEdDW;+ht,4n5Vk2K?SWFHq<mL29Xp[29cU`s4`gdg$?n>67_pKd0.#WV&IgJ`boN??>bo5V/:<B?dfYT2J=ajE5P[X9SVrss8OTB:E>Flj=c45%L.`\0d;d*I*%<HP'p_k&$;8mnMc/[`5*ei=/sVgEGu9I0Y&a&+>l7o(J;0]<+qEB,m?ctlKDJmk+r*.;@^`.`#,7>`8n>M4Koh#!c"af/8B&l-KZkV]o]!(69\ljN*iCJ<WRn[_BWLrh<po/5n%m!7-e;tZA+?u-G)$KC:Q/qD*\>SPoqNi'@T`d%;N%Ba<[(h-1sR;-.tE](b;d+CGiNVCo2M$\cL=pk'an$-1lf:N\KtQ^,t:;38Bg]XJWf=+j+KHDb.J))4VTJfZ'6PeF*?fZY5)&DbmpC\DS2\Y0*urmB=PKP:IW`#E4sKI4P<Eam+f.ukft\V-tO1+d.HcFG#X/sGeWn)B6Z0o'@29.n`qZfV4+-"Pj?j,ccCo18d[_"n<DV;`fqj.M%;:<.'#\&=j@Yn=R\`+q$K&e@G7+)4P/i;R$K4'8!o7adps@a39ZnRK5$>/lt&K`Bp"Q#^^b$Lb;`2:'EF1DB_;Ui1Wg-P%Zl@,E2NJG6p(^sW?Nir1a^c;/OFJ@4>`.$CLr?hZp;"R=DS`"i,"XY>VC,cV?$VmpAbqoW+c"P>=/G(\A'HUVFu=^dL*=ZVoH_c:u:/fD.;^iqJ^fbl7L35QLDCNLHW\nHFubRNZD6^EOVJp$Li&=U$iLDh]$]BqSS0O*?ac'5N_JUci1>ibc=uSa1<bQ2rG38\\l]p6hjHag[>7"<8SDLI@/'U;Z,Q?7p'X7Mh=I@`dZ"LIsYc'&GmlL@1]t?A@AGtJn[Lb1;sb[mLnQ;]ZLQ^lee,IpL]rOgYOJk=<=u-fFh_l>8,g$?=Lg6GslcH]tBZUK\gKRVkpO/U*-h6.hOMBD-Dd%7`6P%1HE="8,!Q$NoO<,Z#HhMA%$i!BR.MXpVtKBhe:2P4K+%]S'Ffa-VJ7l@#PF3(7C<g8S8J:]8Nurlo3e%J#E\<-e^i2q]k4s7-`6s3h]&ZTBFKQc7Y[8M!%5@lO7Lcl/Q?AB=9trK?IoeK?fZoIs4W/UslihhQ4MF>":0VP,5Rhn/TYV#k[a_:I;E/bpUSB/4i>)$u>8fm'm3X24q*MQTQHoH<G1;OZ%N9L-@^+)EHZ@#TM@X4lpWih@?da#])?`g7c+fqV-OI+'$lop(t2iIP(^aE2VP0G&Ta!!aE-c@*;Np>;1`a9^=4qkgqRbj:$B],H>F0jfS)6X)I8^P7b":]YXj9SP0eFp?PqNXqFb,a3bc/_9p!h.3+m'E870Chm:=Gd%RFqD$=7M94iU@4_/tmTiiHC7P"nK#jaS$coH'jkg5pMdb9r_]f#mi%#OU^"eHZh!<2U;MMW,G08r'"gf$"J6trhNi\9m<%P8JPK>GtG$R5klOi\6-]eKd>_g;snQbq[R38[3cTL=PMGuJVa/*^qq,h1eR=\)!^G!)5_K!G?3K_GHt``'n](B9?2>Sh\rl)##],5b=Vi\%&U37W;5c[[;gp=e^Yn6-&aU:V!77p]:U!fK$9?>J1uREJ-t1.Thr'\*d8(_#5I\D$!.M948>!7f\$:>9D+?K46f[fJQr$gOfs+NUGi-W+s1JA`euf+gWTppT&T8bR4[,f0I#Xi4!UPF-,DniA%fiCf340@*tjC6;=,T>W8*[m1t;]CP$2Q0h*PdK_S`("8AnI_>-G8nQmcXekC,Q-3h=QSc457!sB#ESRN\qp1=kiZq!aPG"^@d9LA('NPf];sJD:,1jr0.:O,\W"AFEC?sRAM@qN62eN#WMmQ`#X$WIB67c\fN7W;%WPF$<.re%G"3h$X_NUa_L8G?5L,0L_!1u&:%>=\BEkf!$qYq[l?#7$I<FI2<-X)&7.G!]$j$40VY>#i7+EI]I.6o8<,O/_)_Tuk*LP_=uqDm(QZ7;DR`;X^:-`Dt(Va'ij^r[gLqpoQ:S@t-Tl>(7O1U-1,KM#.T@rTdHjsWs&5<t[Mk@Nb$ago,F$^3%a4F7NSM%?*c0so\R2D8D/Cku6>APsKkC[B*+GkYRh@-WoT\QH&&W-b;GhiJYa2dZLE0kK91n-TH)^QHZhj:HWkW419eLpSWi.6bWko$]R8@G6fcIfr7hVtQY>e>B=`GAXKJ-9!3XMNnP/q-$&Z!`PL?.R)m-;K#k=<YCku4=fkiYWWeZkFIib\<K"L)YV:?7@I_Bgoe[(%]C5rGB`M]q6hM1R*p0@%Ri_iH-q.!^,a,^RSPl?:V9,GM2?aNB9^XR3\8+HHnm!`J9i*]n1cf_rEXD"F[uMGTd-8UlI*L`+e7M'T4Yp-W`80Irg;L,Yk0Hmh4lmsdi)hli%oISd/f*fSs0&(buGu%G6C]=;IEOtX\&_&f`E5qW7)h]mkeV9A/YT+F:KV+kD8o.K,Z$i%_e90;Mo7X<8\kb%TUNJ1mu:3!nV4Ua-7Atd0m'OWlehIU[OeMFEDA`21>pI[5R6Qd7oVQ)F-V:a[!35%m&,1-@?j?HQ\tS/Fem$`Z4m*@pP[C6mO(GgE7)_?05.t>[K\$`1)b'=%T*/6ND"PCi&/o-`R,Nf9#3Wr4'\.'Z,Z&B"Y$pTdo8VPeB<0<.n+]ZqL_JF:b\GU70WqRQGBc[C^mbcgK>5pP7Hd8a-MZK1VVsn"r8]XU?UN,#40:N%82VNo=%WJ$YbtqCGJ"`&gEIFb?Y\5lH:O.).+pds5JOR&Y`$`-u*/CLF$Oa*/i_/Ka8qX1'VqRi0b6k_RP"qg5b1^5pQgHk](LQT_qj:^RPYBtO2a$[1u0)\ip!Q%tlF/bGasd(3P?<$l>E([WXG@*0'8&uFFLEVe_L[nbj3_f\(ar=6!i)["SKHo+/i9m(3C[ZlcaLV)_H)_LKP4P1):n`-MPC:(r#6hNe&^Q0LaeB$%D9g4ud'9`>AL+2E=Z4ZYX(eSjQ5Z]Bkdu^W%gI^!3nKMILi6:(DTHTTJCjHtf0OYtI6'WBp!'*`'cQq-4@GFX(!A3hFmrMAGo8s:F:EN7Fb(@e_YEVRtZZqb:C!>76pi&=kpieOFhhB8(%NJ>tg\TO`Cp!P>D>Kiu+,j#[?19d#(0SdqHC,YSb_nO@GuN19%e1N:gh]m@-G[@SdZ-B58ntJ4A(oF"p+(nT3FH%NS.R(sY,b:E7oOY_;2?McWq!#g7KAj&&p%;:fUg%M'qPHTUsEVB*`6G3:@;!H[pKG![X<S.`1TW$YG#@(J&RX650`+AgRc!@1OhiKNc`EHo&6ebg0B<"a;JHLr]glf1I"1u@h+#K0:?bE!cO+LaAJH%6dIcbAV(P<3sq]8cetq&.P,JO`E<-PrtWL6/*6/k::);uAJ?LTGl7F!&?JdeTg-o?@jWiM!;(6qf\Jq,<rjlc4d/HCDcLFCMbr$IT[la@>DZ'N.<[mmefQgM,SLmcB^-7GkOU8.e1Ke#MON>]IS)"iU_`[q6*7&S8d:Ii16"@A=T+CUQ?[HiW`@0Dd(Xr/r;`m*,(sd=:1jG#Ar#e?jnAXSdQ>k1-0TH.,%%c@6F&Wc<JG1MMfh@WOQre1F,3l2241LVHjiBPVchC-3eeeamc;KQ34f5Q;4QYZ3("@-[_G--eu>:=AE*qnE#peWnGoAtWDA:u0CrGs)^^\&Y99ekn5(*B1oYM)=3a'%;o2eDa20@u=BuljR2f/V[0>;*D4J>\WLm.P/leQn:.4M/qC4=4IhCq(:6a.B_e<uCZC\1MW&fWJM@6\kQh23F]iiStSn+#7G,KL8HTDM3fnF,Ji(-SjRkT+d%CK_0"<WmC%X+;mLL0@5$tOhnK@?VXWpL>*m&WA\W0I\5Y(-c*VJ-NIg,cS>d.iZi;geX&Sge(2O:f0L&gk2'?iKHcr8*:MYp2V%Ro2:rdueE*8s?LGprdd>3L"1r2#2@e91Qki'kT)/>!Z]GYPk`mqi^6r`Dhk7R-JR3^3d-o-WIQd/iO$TPR/mUTc^8!as'T9;5ccR6!E;...,IlG(Cs+,^uE!D25<)g*3`n'j'APS&i7S6Dd@d+e++.0%/^c_*X7m2?c\EnlO;98]E^^4oKeW@No7DeEkYP"s0VBW]4]N8kQc`n8HU-X$pbQ7ET2EU#O#PR?8X7=Y"u<[ZHQIlL!VYQH1.TBq6Z?>s>kj&2?*&mH!3tVfm.X]C5:j5gT1qI^d>D7/#I-2&!K:%NJTjm#B>LYs1>_mTs*I_:W\KbMIT*7RfJ2g_p>pf/lCB$5C+-alSqiB'-a;oA2!OI<-\p0\L`rTf79b,9%^2^&,.?$c\jK`Qg8ZULmu$l^NL:Pu+D8O6rtf#.GP#dp@-t\DMW=O3+=2!6C]8Pl1NgBT8dAL!p/T):IbV_'KM(SAcolM]GZGoU*Sl!*$V1j)C`1h%n#\Pm-im!n\d6JC'"4$58hsbc.S=NU#f\)TUOBaatRRrq;^aA]?Oj(iNs<PKjQP_8r(lJ!R@1O6P-Yrl#><H)YI9p[\<=38=>V./6fh&mKXp>"b-^$@2e'/#ej37`h])h>&OdGl$KN8a/U\~>endstream
+
+endobj
+% 'R269': class PDFStream 
+269 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 4362 >>
+stream
+Gb!;g?$"aY(4FM&rWE#$1X<.tMPRtufpSX1[baa,O*KC3WVZ[XOG&uF;ui/Wrq\bo!%HWb*QHd7X%C<s8J%[-mQL=$K?K)Dn1SfHdhR4L_7k:3Ypa3#Eu+G\I<P.L]tAUfkdSTnIW.NHE'ZVS-N.A&aMtp')c)V"QQI+-kB2P6p\njS*=^Z?b2$pa*RO1#FK_;5V\ch734k,=UF5Ef]mHpIn?qMUW#H8-h85f"ChK)IEISlsQVZ8WNR0baB(&0'R5BjY,M$+@.p0Vh_Q8#43ik/inY-q6'iTFp$i.DB4&p%(iEGeT/oZ)uZ$BKJ<iX$Ha1V2JHdX"9s2RAE9qlO/ItAf'VU5Ad^'`bbR8g9l9*&%m"_!3_U.G+6PW>WRpOhP80r(&Ck7@Lccc;(R4Fc.WN*4pV8,+,U(<992)<,-cP-]A7LE0Z\)P@:JHfVqCZET):-+C[h>V%I2m23<5'FmE30Sbd_Q*0luhsbihQ>=ZmP*o/52/KMHJpktQA`l:cLNJW"#:F1r]k!T(?tC-I_/`j59"kif'6@;I&"-j[.';Vl_d@QnbKE)cp\LdZ?r8b?$'h-LK"a(S:9E)&(E*G=LklA>Q0p>?SU%?gA9NiEZ-L1"+M'mY4km5H(1Jma`jX;J*WN6PWcC?rA7iZ<I)4nlG]*)6A9KJ^GIo0jN2Hab#i@%2.-h^WI"5'+Xt+D20tGl*n?N,(B"I?2YQil0J6\[%/+<Z"_#&:-M?Vp;F7r8VM*";l=0g;.D3n?LG5edeNO8-<cS"6;p7DcZ[thRS^5#c[ru\J?G#46tr@suE\(EDhRKp;fF&1J)`A;.U$O'>P,mENCbE]rEf\K^HMbXPtY]RbuU7`gK;ABtE.^\HE[8p=:/.Tj4.C?IpTMV6OeL]`$1A`RG'(CSV%C8L+Aj!8)5H@0Jr>+CY0uHl3`B)-L8!\#<#[g/Q1T,=?pAk?*n;Ug+r%HMFRgH<L-E9mG=IB5XZH.P2JB<<ifkP"/Au0)-9*=`-MmkCo0Yprae6d*r@)MJdF(U`<bVPP6N!Ac(9;6s67D?C=\5q,scNJV':P\-'F3Vn@gD]Nhs8Ib&[tUDP#'86@/_b=1E^0&o,M_J8L.j(4I_,s`/phKl+9<\kYk5124p^>f1?B^8jVfa-:DaqRo;"WP/;mDN6?_\&UH-'amL@PKQL`fAS?"bR>Omsr;H3^99-N9j/Gj(.pB_,GPO@Y@o.+33)LX0K3ZRdIjAqLC>grc&+q_m[Z"aeJFILlEj]*#bSg/)"j/!GTbh,UiXV")DlL=M5DrcLSV-2T)(Do&s?k'nc[E;+I.Nf[)-A0m2%43YYlV@];$Xq+PM(=p?]ggAjL_#fiZAqAac4&GWIH=:OUOIubElM`OV$aem/?FR`k<%&T8g1t^J9/F*_SHY1:;6F7g-[p8%imhjUdt]9dp<)+Hn>@O^3q\"_u@Q?8pp^c]h]$8Y7[n,Bb%VKN4(8cn`QRq=,8i>e-?b3#G(^P\D->RGC5F,:'Q)P+GpoNZBlZa3C8d=_[[u'UCR0=NAQ5]g1*;b4^d[H3N6m1KnAUY+ld[CqTo1LQ7miNPF2MTkMaJVTKQ8liCR&Rag=PF7tBh3s6FCo`K2,L/'t4i5bNZK.caT\;]QJ>4`iF2,/$>(et<6Ns3tVjHU&07g-[pb59Pg>+4@kV[#!]sZ.:,\'RJQQ?bT.49?sP85Fe\83d^QA1_AS6E7Y`%WZVBQa'cU%s"edCKj,e$PqL\:UeU5)ok]\5s"sD4Wn]Y-]CHZ(HOb/GP,u('7:AT`rLB$iA<0]78W)on@.8'R/Z1k;>Z@`+l7gnYMZedF'jbV\nq+D1^<U7l+gqZAja>o+p#I:hR<r.`gmc;O*!^(MWq)iTP;lAWT22+*7_Uq@Ymo#PiJM-HcH<>EdpsA,33YhpZ"5&=\ZY(4"`/RL3XpW,*sG\WGJdT"o!d&tUG[2u'=i&dC6U@jS5Hn%G(C'QVm'^0RK\\J's>6*b\]QLf>.U"^6,Bq7a8-upGH6<^Uo;69&rSf%&TsjL#2kq!_5TZXN!=cR690#bZ]YOT:BLO)b8@f&qV&^e-aR%X78bWXAOXf^%;TDfUZZA0O7pMSpb.&H*M](r%9"0>Wuk_i93?2fDe;V]E>o1'J,oD9`&.K%<9:#6)Bi!]kRUecK'A5i/MfB6Qp<%gH'doMPBs]I$c(\+OKlVS;@r_n$jL84[)Q5e]KID<P>q3+Sh@/^.@iNX82C(]0rH:qghL`[,Q_Wd**.[`AW%pp<,6SalG#p9RH:ap8oojVR#"Y&JLWP09.PP,91`(YtMlTm[1<V&3St?fkJ="?0+a1j`83"?1,0a[uEs_0&]ZO\5UV":AGT=#Fd?ZC]MY^Ur2f$+nH,W,j9C:;Hgoc-!QQAG.S)^9,CUP6S=-n=;B,r,ZVn%=C:XXGQm!YMebuUV-35W_T,9H'@44/::VZ8Z=.Xcf+]386edr5g2\i_M(l38KZo.MAb^Qk!r(DEK;YH!;ahV3@WKo^Mo0U;CXZV=lpiXAd3#kmdnI@5_+1tnO,SC(<O9B?R>aopJFr]e,S%u:U>3R`N*J@(mH\ub=Lt=,,OPgY`p^9oS5-Xj&*H]pHa,gS]n6,Y:nc'kh;t=LUt_-,E!&H_qZ`;uH)$iLPGB%`j/4'<Y<A_%Tbm6-f!sClcb*]ts!@uF?!M://.]VrN<a.3HGfUoWt2cnfGf0#qF=URd^jBKR0:9$ga<GJLnL>8I,[^Y!:i_g7hAfN.&f#\N^'bfN]Lb1KGjQA]3*O>gDuSe4113SAZZU;CD'NjejY1@H/E)VDQ%9aVIr19-FOp5Z-UD74S_kT12Chb8rJ=0L'nLOQJK]jI8!6;VqJ&rRs9Y]gbi3UeJd*3_YRktQ.e2DL'`_E#YmgS;u5WS1NJE#EtoAr_AK=)8FU>#OsOs(ZMm6k(A4P%mohm:8q3ak+%k0i1-gH7bI.ma=ShJ1KQma8j/PEQO$1R>!c=^RrV#6qCBhC@rp4M<7SkF.#jorQKt>UuRTVATN&n[bR*#uriW;kH41S_NOf+9.qFkY*B"i&qFO=e<Jlo`QBNjt\9;2&Z#/Uus_9DN"D:!_ORbl0S5#a6t<,6H"hm'PfdegAKR?mWK_[KAa76'M#]85@TfbGt"\ko6&K/Nc,BtJ!Ipc`9A_fjAEe%q]c/FNG-b2b/3R8=M-%QF1T.8+`&cdW!6&B=5*Q[S5lT,O/DTDaaQD8`XERHnP"I*u_J;.GbA;GiZ!/uu`LCGB<Hbi^jERRsM2c[+:rF*#dL+SGJ6T'\3!TSQQ-:!nEd7jk=npH=WqF:9IScXEf`UiICuDIePuLNgEW,^rQXn;U.N:t=drV5a0";`m06'g<O0#NP-aZ;oa[Q>5_?1%)PqPRN"m^m/6:Z@HEBXIRQ!O7l*j-^\\.VK!4sff)'WHgNDBZKU"*.;M+>0s/.?[65Fk/=^86g8+Em!A^R+7-p=MVQ<3E=KXq!eTtU=P\4%!i==TD-gG:?'M`>EeSSgMDNij-(_"!>r^ZX5K0^#$(UVd%iY-_RU_cbc+jB3*E^BXe/!M;E!nI(2$!J3TG5dX6>=0!nkkc?M+sA"P&[ZUl%UiFT72hd`]cg=2"MQAANg4Hf'b;%KX4CO&W=GE8Tb2%i*mW/)m\of5e,JEq<c1;h57dpW#iK$@30Xk#/fb?)'cn5a;(n9k?p1`]eQ/qJ!ntOV4O"M?2tdu.e_fSje55Q'_J^4o7%=CO1"SRHc]+KN'rk@/m+F20^#XrmDk(a,jPVjF[NJ#o<cQJe3@1T#Y3.8L;`_2NBmi*22W6QOOUqfd[PJhW5Ru@f3r%i$q$D(Se93M-:K5Ag(O-G/*!D>&8O8O9@YldPcZ(Ud*aI3nZD_ho7?X+5%82fN]P<#5&o9s\=fAPWj._g]K0iL.7F\Y5ou6oRTp<$*';M#Up'0;Ja[LldM+Cc6]K,iX#ICgFk4h?&\9JohNq),+*sB?hmP!!F2?^DVNJ41G_;X*8'qJqtL6=,+!NPUlPJQZ>UfQc%JEi\;Z:7(gr^`^!]1^OC<OSUqnZBA<RqMnT69TbfNCnlL^5&>D!Vb#AUEG_k'Z7(u4gn"3Q+isAp\I@mhHq1"\_B^0n#0Tpf^E(8D;G1ObtG5LI*m6lL-Cap`3jjb9O]c:-Ikbi:":!Z:Dn$KAVt=R$kXKA.i.Rah<a8]@:SaVQJ=?r>)E,BHcqeP/c8-+p<M6Mn#lGg6]D]-r8G)LWOYCXbo3.s0ib&.^)+Z"J3r_g$@6,YA_5f/].2;g(YM-b]O8_g*R1PakK'-?(I"5pDu/!i]DK;-g2Q;jmY*L_hpCAl;JPs++Z3=Ed@g71W`Ba9hu0[ol[b`eE2II5AB&K>hpTZ`*^BKS\Qu$6~>endstream
+
+endobj
+% 'R270': class PDFStream 
+270 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 4537 >>
+stream
+Gb!;g=``=e&q5%is243@<[kWfJs1uH]Wo/4bDMR@8TqRJjVe1&E\%3C?i\UHYM\ah>Wa9_Zr==]Nf!rE"/(^Y^HUR0)uapBDj[h[c.EQ1*TjkJ(,O"?Ho?>p?Ho'+qt'Wi?g+[lTAWHqcQDs-2R-Q2SU)?I^1WkeQO_^@V-#j0#$:&<pT/AMAgq#0C^"oha)V9po%D?(`@`$(R>PKT.^n>J\7@7e4._-M@W2#^^Bk:9QRi_W=VX7ZSjf_cM@BNh6DRju10[l<Z.VW*qZf:.0?q7[cSM/;<o=L9*f'^jn)r"P\7=-Z:7,fk*4YU)\[H/H*^!PQ,[iWaQgL&5/!?Kk)M,3#CF-;b_\;X)KtLS?99u^u02%Fm;IrO6N1SqnMJ)8hiAE8\Fu`f(,MsCM;>aqhT&Oh!%s.1MBCDD]R-kH&D6Gf7.6V?An'>h5_R89Na"B06(TLHr3p-g*BIO9kU/75GIfsQ8bqU!U!kp$t()JH;IQ^1'.g4o%J#6>8E34g80"kYcRJeG[]2rSTgDL=D6fG`"=t,.T/&B?Co@SEAp#m<,>(hS0YE[_B3<2;>keTA[.(B%hMd<=.1.aHmD3BFf9D7<HC$!6fiM,rL,1*f2Lu*hE6:6]7U=:cf'T5rl@SB3O#8+p[-H=7H(fsjuN+p+dE!`Zt21&u3f\!GG/i1hYlmHIqj,3o^mgfQr\B7-k2bcIQ#qZr2L]r`R/m+t/j%>V1K7#nrp6ts*19mj?[F[A_0s>:9ZpZkibZ^?%'pbjZ^oO$je&92HL#[_h5r@rKm_ReQ_(kH>WZ_&U?Y^l3a`?rj'R9):@uSg,4@q)o?MK2-abm8Z>OjkleuC2X9S[1AD(H8r/r(:-!*b$,>VN;L":3Lr!'NFWG9TmELceGN-UNHu.SE/650T$Ae3fJC!%hYFe%mLN9ueX"cnA;5"B=ko'anFQKlB%G<4[b(_btq60Si/LX]0;`k#I7H-rP!u@TB>M%0s,iC^Kke.K!lt!>C9VaomUX!-YfLpnE<c-Apdo*#VI?-\U[CEQ#+8lkZ4Q]Gd#PO97pP#[WDP*9@T9\ac;G]VCZor2AZ6E1r7e8P"oN@??mA"dsMol(s>K0IYlIS&D\SUekl$k9@hjJ.jC-H]Q(ILn#[#d&M?85$!1fBUdrnN"`;IYZ\3`KucZuNKW:ef)_u5l:cRd!(KFRP1;VR$eGUuoTCBis/ZsFCHe!fj>k:17u771YEfeV;?J*^&[KgfgYhq#UaBWPJ)Ek=F_Bk"(^=$XClLG-W"<nNieUc\,\OUoJlAu6j&IcfbjIpG&+XJ,a:MaP>cMJlpfh!sX;C(Ak.d)'QA;0\7`n3__hI9GOqo.#]<62e";hAJ8fWHE2)H.<@N_#6.]O-/Uho%PLub.jfcG!2DK'#G)rQ$Ja?,fG"j"Y"QL7lko)C>E+NlM]D_)4u\XhaRbq_X/2E4lAU$@T2Tb+/\AYH-CP(eb@=K`XG!9Zq:A9W'&#Fc(Y"kU$_a*o/<!@,B^6tTZ`BFUSQ'Ya'OO[=R$J_kqm)i8JXmI6S%L2?<]'2/WlJ2qRU>qiJaf6t:a\7aKOl[m"^K>HV_JuCgf[B43rW^ouQ:PM-<EYMVQQPgFS!<N*,0EU8lE2e:(Z!E9e>ANHIdGZ8h4\<#7FNgV><gI1mWWggA;(AsWV)qfu`p_k1$;QG5?XRHo$dU]lkFR`ca40eCPqWAQ?5/J9%2Xg",SPDnIQXN&)!R19!_e;<&LN;q-Gk[0Ktsm9e+ojr"oK:u0Q(>LJIm5Q7[/W4]td:J9H8YkU^S?>7O</)!jD'G-1Y(Vargf\QmC2WC.?lET"qcdf>Sf&4ee;VG`FXu^Xn$LaK#6BDI?3:TF4^"W->lhbT:,t@kGt[>6uq[1"aXMmCPbq?7cpX!2rk?q20UHY%1W_Xl>MoT(TBqF'bbZ5VM7^1'DHjH<\TDR?SO$J![_J.).4381Ig</rh7=e?3Y8?,pC\L:.g[Ii$dTb-Udih)UqK)=Ff<ppD[Bg7+#H/9\p@?:`fL,s2OqRDY$1H)g*f"l:8<LBs'F5p_7K;gfj"9=7)V?&5dd*`_WipedHeVlep@)qr:1[Nt&4([dM[cj>nMSd<8(DLsJPj^*J2fULE6KX:,)YjR;`dB:\4RI7,B64/PcW'(G(V$9.pF!0_V3DrQuj#W&0M3"YsBd\Zu#>R?U)>C6&^J:8IClRc^D>HE=://cao5Xf02X5_>W&HI.,7'A,;'p'K$VN"S_O,+TV-j:R5TYN6AgV(_J1Co&"f70.+E1!n^2?PaD$f['_^0S-VtoW^pNtu2F+FcLN\>3bmCg@,YGj6/;(Mm4,.@7tF8Fb"0<M5Ui%pZ*Pp94qa]*^IV^2[:B.6cQcPaJr&il4LF:/@f_e#O9$8ql$d7g<m+Hk\9JBFBc@K8QNaNr?uY-^2Q>R`&t?M=K>)dE$CcZSaS%\=)3od)20BA*L7%QWD$]_hLaJ_mlU*[pZoL:YD53[4ep#DE,.R4_%7mj'.]@"0I+2@7SY27$V+`_E:)R;K=g/9],ZYYr\/+UKI1&>-c.AK*%3'ClM:@nEt<$cq%CfW+2&[&/`M,4a/e<e:.`Eb;6Vgh#=;e%J7c:)I;nng4SMdksVYHW./6^4!Ojb8]nLR>.h*,-J=PH4*.^fOdm^X8//CL-PC]94[FlS/4G77DB0k?aD\+RB^,(GC".aJ:Q*kC\>q*Ppk3&G!^PW8M@`.kWipm*9+P+rGuQp>\<QQl@95C2mg,<Ns@cam`l8QC6FJfDbhZo+i+Fo'p<R;AuIF='Q4<94W!3P5jmEt=;RQk&LYsA#>?%=+(1305jluXaRR>l-Z78W>Y$85UMY>t[-S'>]Z^?eKW,+;L2p.lF"b"KcmB8DM=fS%\*_p<*AYHf5OJo'lpDi.Xb1'JNXnmKG1Q6TeJJp;Wi-!?U5>lY5+#q=@Ra]4]IOP:$N!Vfr%smKs!lB2bH8GQcoR0LS=1/$Wq&si)h&?k$?kpn*S].%kV)S4f]6p'ql9OA8a"@g2l\`;DJAZ:;mH-3Oh;RcH26k8@WY0&4nei7num>Lgt):mWlgA]2p;AMMqm8&:?bML8*uA=LUeWc[!2?2_.eTbN0XhT.20k$OUNr84BFss%M?W)ne>D)/%qmZg#a,S9X]TmU7E\SW+b%`^L*0,n0D!FZG8sR'5PQ_C2ntYj/D[lBpDQIYW`tK![+CA\s<iK:RKj0*Jtb^#Gu"L]4JEVXYR`o*LY<F:*Rr5=a^aJ=i96di"YE])r(Yr(7#P*7L%U^TEhZFAN]cJIGD:Y3$:G1J16GYSKKe#e[N=-L(aaB4XPeEWI`fSkLdlUNSjj-*##<Um)+$[^XPgu$qV1W9sKl`2L]Nd#4.e=XL^.&%;\?\C`5RE`8iT7$UbYsm=Cc80A#ttCYtY.Z6I0-9MpG0\O0<bi$kpi--pYBBRSu]=_5)+.R21\hR8bf7c3-dl5R`]5ZFH\GK%^GIpG[tTW/WlH!O`.W[or9$gRmXbs(e#q0f(K#OZU0G\psZZK""KDQbkC\YON<!V/UA#k<RRJQf=o2d"GPoP(ap*T,)_FkBWRG+fRldg(s`WZ2J[SV_W3I<hW1mT\]l_k?tM+P"g7^$sH0@>`p+pM/pEj%V62)B9!;Cq,E\3CI20ZG^qTSQ$=lj0FPPMd;bnWP0U(0`\jh$dgss,+:>Ui418qVISDqp=2J?h&)D=:"Z='nA=6GoWlrY!&Dp7dBd#Zc#=MK2t\QIe']^#oiZ.7:74:.(-pdtn4m3S7A9g(f!uYl.Fb*MBo4jAMNZTLe#Xnd[5Ssp*EF*%#Ye%%(XC0lL7>VTb>m[K7eCS9+'Xn1!>\N;O*'PeDcl#KWm5l<9QV]-O>f>ZMUZ:9mI2<u,1sH>[uB4d"n.3ZMnS4Seu)uK.0IHIi+id="-A\$<`*fr;0/^kK#*.>q$EUBOp=$54GuNo<_o?3El!08p9BWl-6cu+I-JnB[:r6-d*Ck^\+qsFC*CK!\<FHY0,:k"BN5bpY^t<@@]s@oVT-k*GG>I43*uXYlE.$L)?;<L!)./.*+%?=lm#+aNal:W8T/"PRG*rk72E-g=b%`5G(62)N8VRb$buCq)_oQ\X\ljCiD6>:2r+sP"'4gJ@?1IlmJMqr025F\?NpQrC29SM<4h.Q`c=),7aF*(P2<'&\omSi!'D`^NW7%;\_\2RprTmR_1o9"U^-YrVC<iYnrOd2S!sm*^+sZ8B)gscV>bYpJ#@u5]3OGt_E6?QACP:Cnh]8>,a:F=c/'s*Dm)jEKm!C'5)\NQ\PfoDSDIB]@+ig'_7]jGbJL'4d,XhUlafotd+Xk:&'M2]n;!C;Qf_kZ6\_,s[r._r8AW1JES`3bpOkRDfO[mYak1QCrDmOX!Mc]-m-F1GIPC/0K#!gK+3hFk/c4iHYD<$a:fkhZQm9"adMLC^e%2@MJoXJo)'.o4p./B-mtq!eZ6G^"Ms23+;HaHfC(<tN3[b1%L0E*9-8scB$6*SeC*]6J=TguT`CDnHaAQ%O-[<r\Q/fFN,X*@Sd<QR>bp3^Hh((S\r7V)N*AFML~>endstream
+
+endobj
+% 'R271': class PDFStream 
+271 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3476 >>
+stream
+Gb"/*>EdgM'n5n9rr_i=l)'S?JlbNlaS:pXPH5G<;W::65!UA=_+PCj!Ua-^r:lic;A*'ZY"39InjCIk=s=Jsq='q*cSFLq+(g#B)0mq`J%oNI\R[fKbbmWB?]jfs:S7RJl'#KA:KB^<p8R51IRs<q9AP0^_;fm\Wc@DP(jg>SUJX:rR@Pq(!DYSh\K(LER,*8PiWG+5YK?R7>utN4`i'iX#HkeWK8kF#@pH6WkW0enS@L$NiUG1;$R&'`Q_MhpjmZQ;30b[H7*@u[BB2R3_ae\i(PYU`5pg'dDknk/jQ1&cY:L$S6(T#%cgs7BYK(RallBr#1,`\em)m@uZ]"j+olhL\d=>*758UK'b7>`N(hjF;!:+quhZ[EF(2?n>/<fl<E8e'aZ-_l^*t;n*2HHBQqf(aBXa]E#cjLm&Z;bC$eE!B\9o&+kI2\XCn;gU"cQ+drrUUsS'9\\r8n+&;GTjK;H_f/CfLc'kl)c#AOL[83O+j%R\(2d2&5\l;H*^cBQX,E!)c^t[3Jbso\W5j?(CaLI.).F2!>D<F2T_J&!B>/1d'Q\+("sQMKV"B!.FSF,;1U33@MGEZ7-81[7+ND<5<P]P3guSQ1\;oBD,b*b0:#"#aXnWkp*o#7XL?@K,cq)q<rEi8r!!QjQuh(.WDXWfQ&?=tl622"(=&Y&#Nt,d]gjChGfLX*$caEH2Qe`8"t7:s!0]'e>R#(ZMpt)02r*IL;]n%30h5ti8fImIIASpaF@t\#_d/B,?8q@qJeZ29i$-!MQC=VdqEn!!F!*)S[8:!`.>Yg%omN!r,uJ9.ie7t,Ss'TF/E-V6go_H%k#0g;hnn_6P;.%#'0@:):Ch>+>ul;;p>9lm6eKF[ZUq25Kp]a"k(J?fX&`/[6?G5W+V[0Ii!>r`a8iq\k/kd7Y8<'aaLPkPK1:ZLFU>:5XG7.M@>'caku>Z6C1,>T!a<mUMFo<NAq2<]cTVdT,;FNjWFrg;i4<h!a]L`Feln-:2m^_RI(`26onm6=qe;I%@ppb-(9.(.B`bF`&R*J#ZJYomJJo\*9O#t-N;RiOIBR5;CHsdYnN@L4;$\`pBRW\N7$Ut]dbhK?Cs^VM<>XM?s7AlX]R]i"/CLAC#4'E>bB+;3/u3$2@Za<OgD".X8,HLWb^jE%L(*[PfA@X,0gHpr%L&lX]U^L>c`$$^R1n2\4!(Q,3M+D\$7O\pEa=GYA\sNuiQds2jNt^`3'8Pg4LXANO'6bWp+")"f)71hBZ"J/=N+7ids+A.A\9a'RjWO:Jfc/Aco/0h.&d_MZl1>-]Z@o[*Kk45i^9G!ONa]38N8!//0u2H#crpW`l%7QkuPgAfpm:OUuB,FB#Xk&:6_^Np-P`o#_fG'/bg9hmO=F+<4(/mp072n`ZqNen(k?8TWH\8p=fP(h28iY8Kplaot)fV(C/R\Ju/!u>l?05Rh9AKC;4T9Z8cfBg"-!@\a5G-1Q7^5X?7?,9^M4TDr6%82tdOtTc;lT:66*a<Vrok>:/a^XngK:R`7OE+a0AB$_\e-_OoSkmVRN+EOS)$/T^-2p)Hp_g,[Rs6BAEb;.LZ`i9U)@%Z^l)[s-<!iP?Q'aum[ua,m9,:Z,UW%K"3,S7#G00@-L9+2E1U8k='"=UlU.F8c5DHKb&B2^6"0ESE[0%c!A1pCNGc/s*7Z&&mlZQ.L/Y\H#(oG./#?.OQ(f9E`1Z]"KU$S.<3sRNK3V.>0C3<UTR*qYbJ:aEDu5[AT#=Ke2/2#M,W@G#_&"jR(C>+dIOW-+Rs[,aXJQKdp_V?m:>b=3[tS'njspMe28uoH5l.n+S2"JClFP?h&MEnsMHTam^#+r]E_<]'6QuNHP[Tmsp%eV&'1WgUHM>U<K)1hCCT8Ya/FS[QTkk;,tQ\#pgNU9"pi;GCso=Ul=J-5qH?UOd;ZT/4<6&W[qUF?=I?DXud!]?;0&Tkb%ICB0-+fPU]G$ifICh:d61hOCsQ,.AUN"F32LZ70c!LcM_5DYT@:?VgjjN^CrO-j2tMqP*/\$"`o&-r*u_,-l`*S'h"Y)b.fT@+YM:m9@iP>_6nN_nnYLH%kKg:44=sKmEj<Ec&7Y@B`q6BHjRMd?i3of*LllqRr=fm+9PI2,&%R\F3_7t/HLOsp44tj$Nsh;gD)*VC/MAf5WU"pqmH.Q)U'@4q1^9a3u5KF(EY67#Su/ZM1>l(/N!!."XA>S9:g4od-JaXi-`l*l`Sk>ikn1(J9n,=j@bc8)tpBsmn8p]Q$+9Rs6tqE06HG$FBLOfI2Xk7\hP/rB\u=[e-Y)a\t6O!'D_ar75&'E*TC2I$Y_hU&"Q`ZT\]n*^fCYI.3Yf/f]'[ah)aud+Zie*%]G#Peh9VghUjjXotpRUCRk8/&Q>MQ]O1cfHs%8Q&["4M=n.SY4>1@2-(/9*4im/`Li>`X6\c91^/;^VIEJ't8DhVM[YhJHo+<Pqb^l5hpc*gI9L*i0CAV=<jq'^ep/MR0+bCl$<6a!t@%T<K4GXK7C)XX8ccniO+:mGXU1cb)n(p*oM^>/&B$O2F,'/NG8/CU'kXI`V7,?3RR>^LnEq-R(*D*X]Ui&]&I;,2N6)1X#"rVI)QP]d;IO"+^K=gRd^El++3Srh-!`;:co"=8FYSBGtRRW"L]#Zb<iKlCT[bNEuee2>gi8DJ4?&oE*Se<8(ENH<1c?0>`j*^s>r]Et1R3Fk(,@W;)H^`C[rD#uRFGIQ`*BTS[%ERuUF>(>rBaEadST9lCdj&nFh^D_%FD7>_%r'2?2>sC,n(i'nXSSkHK6q-,)KMCL>853`0@D/P^FIa_9fq!i<L4.DH*%i_-":!%%,Wu:#bN"@YcV0-DPYpc'c.FHBir_H5($*(^m6L<"WR)1LJt=r%D(+[F'JNB-6OZ.3u[]\:ac8dFfNt7"(M]>HFUM+8$a8&qTOM!V.tC_-j2#6P;*GO!!@!%LL4AeEgD:q^FW?3%:N("rks\"`q?>fj5O54c`M)F'6N%PZD`\]Z_629RQB-@q%"nNc<IE'lMduPJic9kl/+n`6KsTMgo)2::U2KlS3pbW:VG*COFgLO'`+*\Gu0(c$(\oSXkmN>(4\.;W@0QjD`9PEiptaKmH!iB8e?I>S1Ah`4fG]>*a&gZDU3.r4af7cX/!J4)">U3D.%,]_:da^1>)>8i&7%L+FsiBRhcJA4i3>/Y5mjY`l1/kqZ4=?f=cG=`a`,1DsM<fKH:t'_sr$&n\+IB-],FZ;oOsndJ>,rQ2"U3Z@-8lah0f19&@\Cgu'i<`Rf:oG]#UA2e-#(E8;A6ac$r^^,h8fOf`)?)4Y)P7%Heo'c\D%'&+__eq/suNA1PA.:ct6Y152<X:IK2,2"<fFIMF(]%n],V7kOH*`MW&*b1Y9%0WgXWVZ9(p,<)SEUA.7E3b%s^iVZk8+;+=.ketkL\@K1ETCH*Zc%uk!ojYHFC')\kk+0ON.JPE*Z<(9OY/Ri%!`?Ib-(^,j=sfd@sUN2hBF7kqW*-`n7TQ~>endstream
+
+endobj
+% 'R272': class PDFStream 
+272 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3534 >>
+stream
+Gb!;g=``=W&q3VVr^5kn8L_#kLcY+f,VqMW;T[/:];aWZ5!UA=+smU+!F!nMqX"JX?)F^@8mG:daV5%<_*5T:]0X!S`IG&dN&#X)%HkL;i-K?*!B4s!\GcWG>X*`3kOW>9Qqt2_i!gYj#_N]b6eCQ,^5p`IL0;(L'Zt==\ut)d_!Ss\B("8pH?@%Jh5tJlQ.,+:c9g\?>^nQqg*5#fj!;,"oQra6IN>U!>fuo(&Tr9WFaNiG^[R)d1)Ka#5-R+l'pYN?n9ZU^--J&)rJBXbMG6+pUm0CdJU`QE9:Qd^WoOLn_c4bq+rTuMR6M^ZQCMY;H)3LUS7sl],D]6p'MM-EBu2^gOKdqL5pBrFK#ff>Bc?GR(3]W`?EZQ;ff*.VkXs#rYZ(Z&jX^TW<tWnJk)_LeBuWECndp"Wbp5[0-[bUPjsAg77WWKGp)hQZ<^-jW-O^4bq*>gONo+3R6-fj#A"M'3p\+65rmDUabeO2Fq6R_WJ:SAqp^B:_h@Grc;RkG)e:"<%*'+orDSJufCSFubh=K"4,M..Ua4]rUf0%_J<[uAc`Zh!eNtcu);n2AoI]K6PqkTXk<#R/C=!MdLCqHSAjT7'7Br*Yh=sk?[]%oQC$bP9:o:a8!pPY^5%,Ji!_CE]PqSsdJrrIdd`'+MQF<VF';Mtgup32OjMVgXa'ulO@rk1i?*FL-[_>u<dNN"a`T89#(:e2"7"`gn`^=<c8cXFh8PgJso^g$tqh:D(CVfs7eT--`2HUXq"i\LDCU9o'mQ72,\h=_[k]l8(H?GM6?/D-jE8*%DSH9PSjPiit!ZLjHLNs\"!2=Q?q?iY$C\-n(I>PaJp4SZ1o*6W\:W6kZ/7IAuQ+Sqj0&K2P<S71Xje_Pe#='%Y=+D36N!I)2H_jJC`\:iUAc>HrLn<Kn#.%,(C,7Pmf+r;a<;+0?p=P4T0H.`hnJm@X2"j<Vg-p_'C[PRVF<dBWIcF'7=.4\tqM[Le,@$OJtq%s;G_kH,iHj1WU'\bi/$LRdp*mY@TX8Zj=ogdis6#l!,b@b-pSH#P7H;M_T1N5JZNBNdP2W*-YrQpr!/)<ErY7m5Z_H^,<&0!Y<>HEUq-)qmD;G"+LhaEZ+')@^T`O)Jl'!7)>q)RQYAon]4:*d1;)'?n(M.uB'3_MEZ[cA#eEB8=;[r1q3p^qYuDI;9=/=FiQ3eQC>HJCOCB;Dc'Zc,)/&[*CXott>8H<nJ'na!b25<'o3m0s,p5<OZ;+-DY&)OSh<GDB`8#0tS2iojjkM60#LboQT#Gl^oRGf3XO1KiSKGd4'<Q+=LA'R$&*5_M3f%(JN_8@EiF?-4gsLu<nZE^Za6^!n"&ZV99tjJ:V,X![Epa#U-r:t\gkD=tqM/_4K1B8$[n?$OI.-6^R4."M\:5XdP*KhCW>8TC5GF^QbC@T,'nHpGU-e8d>c)lI`A?s]b-`!l'oRm=b'/u)Tb^8R'[altL'UPSa:mOL[R9At74h:Up"""?t-_"2JbNZrFU7\[/6M_W>d?^I60i(OG.m^0>I+&#:`K\%ad0Aod`P>/d6;Tq-mE,0o<*eNKpD&"7G`UOler/H)?`cB3tnZ6%FP>mA(7VOBDUGFr05;#S&Xn7iR8Ni!$"s@sXG\1+RPU^,'L)oucdU;Q$<9ik&OeM)oh*F-oD-f:)R#FJZb0:?;2iM#36M##P0&nFp"HpUBlQ60Rq!eK'kFIq+IM:do,sRF9!rl@;**ilS.UZm<]F.4oMhj=*-3l/$X:koX/iUTjK3W00R^&6s"AoB`I01MQS8)PeM_WelLcXU!Qdj2Fm'nlKdt0iBo:-A*>o:\06ND[/#\#N;^3P5"E^ed^eP2loYZ<9GR9!CK1g7m)eqcTSP+XXqALV7%>]H>a>O40#G0(Ru$qh*rV=%^F);]B:GeRu&U,*?;f+o_3a#l[U)-/FQ!X/IV.O-LL$64jQ2jT^eKLYD!h/LBnWbFuI2pI-Pr3O7N'CJt+Z#Ro\f-CsmU@CSE[N,kCTbtLY\$S%F&r9YJZ`trrLWkEH7XLWS+,!/P5b/2?p1Q2L1@(*fDpGrQ-lCgR"S;Ti=2,W$VKb/$:G,&*Fmb;@=G^VX]oe&tmg[jRBGjBE<[sKB*Ng:B";:=&nMbQOA\)h#*;a1%nXbo+:114X+$1gPD"In=AsCQk.*5A?MgA]KbZeq_c&GV.+[j(KNj/+9QJG5BRushHJX@J:4aGgb`duHlpR&8*19**)RgBcgQsHG"[F%K,ge:4[6EC6@_%3j#6Lau/\kkqOQk1bN*/#YF.ZI<PWHi)FeV)#+p.Uql;3:?WJlSSeX@fn)H@0Ro\t\GY1TP,jccn`\K_\7\3&=QlZ"1k:Lh?j8><p`-e60o9(K%n0`m06@qG83&Mjr;"BIKo$Z$\!E"Vp<5?\(ALM!kZ@lGMTe6C&f7lr_>=a>uaA_L[2F3Kff1M_Y?uhPb?iQE9j3fk:[L9Do[J0M$>#>[Kh,^RUZ`a-K1&Tm"^EI'[F!JP?b3',\ZqS<Z0G9X2Q8>Y]*[RchTX`T+Z#K$LcK<^V3IJK@q*b.^LkDoJ\B/M>PR=BQe=b.2*^.;!j)-uN.2B#qQ'E"oXYe]qWl$dEGOdIKb_8]1t+VDKS6$VNL1FaQh:9V,0^AO6*)$;W^m_fCo\LBFPIYQ#l;)QphN6e:Z#:=n7JO_l,GV)%_7?s@'NId$te=hCFtTLZD$%<L?6F5Tp'q4:sXZAS9=8p%2EWLQ/\KtFF$4bDXiWpPf$K/R/Ni,GlEC_lK30T1Ft[uNX'?hnunms$;i".iQIFoA=:46qt14ROL=Uks`)Y>[i1YYR*2.+.?F*6`80[W\'nT"h\V[!(g>dCeuZb3@nB>]"!F7fM>-mZZ7NMUF%8EVG=90oItr]GGN5bApo&1=<29V;?ujONP.!S#_ro!7sY`7e,TI7at33\V$fYPtnDF8cu'd.E+-k02/._2WSF`3mG!/f)=a!m0k\%1t-cKm$YH?asu1Ye<j'mf;d;ZC<C'488UlbI^u.rnBT3++KDnlpFC1aY744W/tASCS]M!pLW<M1NoLJ)>W/(Vn\Ge--.7qVUqcmE;_L+`k["4-CHRpHH[E='4o+KjT83uGaDCXu`X2fVr)n$Z9'Y>;mhORE4k1"KWjIW97f1aKnEk_4l'#VJ75$2l">^5S(M"[57?,qD@:dHQ3N/tG8T8G1#np,-7>X,jLJBqQO+iN*SdD5*k;j2eM'A[<LE!es!S?K+E[]NOR+d5%^uiFiU6I3$p:#-fn0HaWiQgg7b.QQHTU!SWY+6^3rr($jD\o&)im[#*&bfGb=jH`QX"ids\d-40?taR;pZI]7G[f+8gjC^J3'-9X?T7njPp,Ku=2Nrn_/9Fa_$EgR_31sNB0c!&IT;K\[>%&nJ-\Xl4=qu-Ba,QFc3-Wfo6<)VjMrIVau6"JV5ot5-A$#A[c#!gW($>B%\Yo_?LW"2.Q>@WUGc!rWRQHB4Z]]l@s:$NlgL+-.F^3gP6j0BQmrnr=PX98lMb\Ek)';(iN;Q.V-*A9CW^.g)XWh$M/;Xo_"24=#PYg&n,~>endstream
+
+endobj
+% 'R273': class PDFStream 
+273 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3410 >>
+stream
+Gau`V>Beg[&q8.eq%&ZJB9*/d0$8+hUe.)RS$[@f]jr3-&u$5,"IB+jlJHdiUdRhPCu%"+F)6[5#(sI81S>0mrn-@WPf)BsiSpsK[KF!;YW_-bm76s9pA)&p4b*1+q/*SKS<19fhusZq%WfXmMou@&20@(fUqM.jgW]3(AKr:7F0jn_q6]7Np9Vt=Q#%O%ZNKn6DSI(?Q;;_ZTc$+)Ge,VYZJ[WqZeH?NmZ\l?q_rcM+/:E:?2boY^h>Q6@lrI=!#CN]g[XF4^bOUJL>grV0No9D%DTT'ri?+SAKc`N,P!ht8C>7Lm=PgbG+5g-d>6#`R:D.XmarQ=QR/K1@h4g/3cVbBT#P2f/*5VJRl,<+cU*O><Ub'0k@r>BV\9%Y^/10YTi'N)Z'@jAEc4>knqj<\<r*dUb8LE5i*SN'n9h54Vq(20bhH(PXYlOL*bOlqP\g[N8$;6@.d[dil#okR[.M;DLNLoQXM?A(H-?bF:Y+_n0l;GJ(:JV#(@t#=n*A1]12!Xu#G$4ZZl4MpqkoqX=9!fOO4WQfNUt%e<j7[."d.#M;<Sg8%GtosTp/0-(cW4=Ne:I],+ZjXj:q%2=@f(iFX7`8$2FYZ<^OSrP_pXtn>XLW6GOk1$%phc&`&#>2=?<E9n[itgh44)g=J)5C\35o7:*q%\WTP'F7b=m^).nT[QJ@e$(X]7-1Y>C$<]d25Oa$VD;4GGchiqc8`@YkX00T#9-[1E;=I'1MbKE^5/Sb1gtf<<J-EbTSomFJ)4`[L]]]"jVKMFgY[eB"qe+AV,a326AE*D9$m3eA"&jqQ8Vi=M,C_,*C^cjWOkc[$0At$Y$021AC0iL-*p]4c+<`$BkL'a3gc^2kJW&^ghLK<uJmHQ05qgr<BW]*qjDVutSYg8cGPA=hN?M9m/6`*M.#MJIeeh_=<D]LOORXNoH%PR.dDfK$UO"7pc5.2[k.HQhHks$3"N>@H+aKpX7Z0()bKGg%q0^JRj<b7%N8]Xg)pttE+)X\WUh[mZoP8Zploek5.K"Mi(iD%QL4%[_1[Ko:@n1fR_pD,[0\blF?-dMJ\8sh%db2h:r:&VQEs-[Pl/2]cjaHu7(c&He%!d]Z&'t_2IZ/i26dA!>.3]*dk3Q(nb6;+44F:-9PjDXUGNT6^AsCU+1?O7?-I$j%6utltB]p+ckq-8GUn6..n3cc;A*oHJ>gI"gn3lq+3,+;S;2H"@m\$b#N1D*WI9ae:cO2m'p%Lc4a(6C,SQ2sjAfE-2?9ocHN5cNh8sqp,O;Q0>7'4D4RIh;%75GeRe#7c\\bjlb^3aPN_*6A4qc:%WlL'-!T>piD3gSZNqJYD!jA0,i;I3!ABaPO#"S5i_C+TcX:JNEkq(XI)[BcWqnj[255q:?>^1fIU.'<1j2&<l_@nPh)/;[f,lC!4e2c5j+HKFT5mY1I8r)mM)9f9t!c9$pnIq9q@U"*QL<6<qViWLh?Z%$$lP7N_b]8!F0dTCMU?"/HH0unQ%1(6k0&f4fk#(A6G(H09.&/VKZGoH^*r4W8gQi:Y?#PQ%5+jn[s\?F[$i70I^0o9m3Enemhd?Cm.:)J3Ml8VNpU1SEUL"'t)IRYOk`5PCWR[^*fS<DG@89u-,oXt,cV\R#M)%<(jAGRe`,FkK+N.:ui$H="F>D]L)K)UfS6t,^Z&Q3#l.FQ:&EeW0&TEc\NdjdVQ;Y%td/FS67$QQnK`797P(kpBN71XV?/4<&Q`rmM_#U(%n].r#p9'l%`Z7XA'pV4^MC"^dD6+4\,UGEV,4*[beeJ;*Z@T"lA>XpSIXfA=*jR/'&08<77j.2`M]^7DaiHQon5FaJKj$t73Kj.aDRq!h%nW_Rham)UrHgs!r:?lM_(%e[M[g0np?[M:Za-V6tHl(pSP&j'/c\PY+;K"9i'c5Q.RHplSdL;DncWp1?jmA8Bgl]WHhttQ3S&r6O2Kl]'i;.+\is5*`QWY]WLBF2mHhSiG=r'-MX:Y5[Yj]Q:e'h?phc<5%4t&@Ydq>kM*Lui(DQ9,u>F.Wq@[iQ62@X=]5i"*V]"YTH^!J2PRJUNMa2Z==K],bgfc3(>LZaOrR-tQ,9.*h_9D$E@8j_.;^]+I(?NI(gJ8She*0L_G[;2.uWlgt]N/fC<=HXn<dV2Zn]Y]i9\Pkh-33Yp;>)/"(E")B+nFjgOLdlIDR?Gb9\SZ0p,W(3.L6"kR70P@GDFCD'eoI*1fc](GEqp0bJ-'XDjR@g=S!+O[UqAL32bpi!e:C(W]YGQ;3E=s5LjR?Y7#<nOWTd.gQe%G;=brJ]/GCq'an#P9>/OH"W(eFtlA'bp7>T]Ga2prkKZC-MT&H49#dK%sMFNnA0`t_R"^PnHV't'+)f\YbO/`fH:X]TAmuF`FcoJHg3K8qLT,r'of="7AY#Ca"E_[CW18PTmj?O6_rI[8[%Lf98#;9=ZhVAi^#/:ISkFDj@NGWB73t,FoDio?JR+pYkQc>'hO(JsJGe%WkRnD"<n@PEoC*p4p7%Buk2YYunC!qN(F7R&bGgZ>+aB[fXW_lr4fp<Bd[#ANbd=B7%.dOP6HAj;Hae)e3j9W+u_]slo[f#NqW/tDeA7f`!)jX3Kk1$*.`)K^u2P9c9ec\]T'A^#HpaF<$`2!Q3a$o;W^<$FMks_5r?V'D%p^H"N@[abRJ0ohDj^$Fc``UNEIMi[&1mu_l/(=?5O3QTPfC>Rq2:go3aB3,95mkNt21ftPps\F:$ZT*ua$QUoJaP9bEH0#o^u.kC*746Agdj5qn:cA8k44O.kV\2fU5VXu"4=;)'M2"oHZVadIZ\V271T>k>@V>+n)f9RV</.>Vf#LL)OU;RA9j1_MmBpV03W8=X1M'tac(ST0bs;Vd;;g4D%URXeBu'!?@B?[kKYg2G"+^WNl9\O7NSi)'/q0=;mt8uFte.S\NY%cqKS1RPN/.*$]Na(Kqu%V$e2W%n,FlQVI#>.L?;\'^t2jYca85imqpeX/uFUcEbIUEgI$%2\8f:,7"N/Y&R2(JVmg^0ddm,^b8O3`Q]dEDFmlC+"LmgDXglgPFNWNK=?KE\RM'!\Fa@t(A5Y'e^`UFPE")d/2&>IDRsVYs19X0$Ql\-@Yc!k2B<i6#RO05E.7%G&Xd0j/61sgWb(GL/gUf^FaBRX+HI:hQ62>H/KV1@\kEqkT8\dJH8_35`XXg_R?">_%K28]NTJlq<on1BFM")'.`K]3kOpOn!(ATejfcV.H#4\d,FB6kk-W0BMnB^#b2.`fMM0\noeOb?h!g+=NJgJ$Ak(%QeCd+rV0>f)`IE@f'lsGEX]Ik,$@pX&o,dB?q#_GQ#Q_@>VgX3=65hmd3]:/rk#dZ@f+Jq2!8/722DM6HpG`sg^N&KiU7p=?:[mncei_#M%=/lF[S59dUW<ZN/'g3]h1diHP,Y9Y',\\u<35P3!If[+(;fD~>endstream
+
+endobj
+% 'R274': class PDFStream 
+274 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 2981 >>
+stream
+Gb!Sol#YUj&c\Gjr"#:](T1d'#s9NYFPc*?Cn>^\=A>YkpB)[-,&EE=5gYCcmJl#HWIpA5K+`$t<BN<m`Ic%rrq>9)64<h@r-]-oDa!mW%0^K4D[=i9%eMC4FmnRYmn]SROh]Au!io%3a)aB44!*q)[Z/H\a9oZW&Fs.fG)5Otd#7M_>iJnhg!M$Vn1pnVJK!XV50;tK.hcQ]8"N*:-GR'Bl'JkTT-Q[=dY9Z"%/UlTa!VlgruJr+?6h'!.)B\7+edd?e2(IpCc9M%m^"$=h!8be]FTq1L;"Ign$#o(DXOP2\4g>T'E^6o4:/M!#%JrLMT&9*HZmHXJJ)H%s+]E6J#[d_+33r&+D'$/Rh%jScZ$/#jl4@JRsnaDTWSdN_.pC3^bg:AbCX`(o0=)RW;i7b<N:XhNj>6+'Lu\tV)D;qHTssOaLCqulVOK@<qXiVm/E,'41hq)DXm+dE$nPWn^)O_0:A+tN(:c1\@,[%$,hA35fVi?CC("O%l0DBQl6=NdkMqXE@5aC`/p.uJ-??*4rB)kgTqOpT;=<MZ&Es[/FLH>*=guAS@LI/b."Z\1p0PXa*r+\of$";j'#H&0e`Bs0]pi7Ab]QCSn6OanN6E(s*2^h4+&iqh[Yq6EqWtZ;q+]9FZ(4'b?kK(,Ae$j-;HCkN9u$uL>*lCKAX-5N%19[4,kn@1_Ld7.<`n(pB?#tWMT,kLXlqCNn=%8')!=)>0,DAD/'phq@92NIk`VjNpdS6.?h.ki]-\Rg;qMkPL1/jO)UAC[d[%*M2ELd$8OFY\$QGS3^.Q]H\DD(2pm/*mY)W-]FQ3?Kp!6543XF4?16B9jDY@?89(MNd(I-I6%Ei[Anl9L,"pu"^&Ko8n0s$PNQ4u5TB%[;ofSjK2-iff+PPL!m^@Q'm>/CCPFNUZ5B7eF#$qmS.`m>0X$"K&'s9.?L.eBu%f_bMO07k&V7"\#XtT_4;!>aJg=[*Oe)R3>Ohg9*)_`jSEXk5r#SS)tdF9-HV;2mj(.3QYQX$>Sibu.P]]4mq)-L#1/VR"r\eo+Y>R@!R*+DHufp%?(26KSL^*BdJ']_[G&8`%Y-NYq6i'3Tc]?L\Q/ge.HSr6"sU2YhplZRS4@+csX&=X'X(rG=pRsS9f&*2C`??a+JHtGuh$0uen*YGo"P1>*=gT>njhWe3sPM0XEPsd"/rI;L\HmFu=Qr1Un`sC2ZIt1oZ7cGM'rk8iVTfU$u2$h/A01N\F4PQ?:lCV_RGp&*8IH1:gEMCoN9<3UWDS*Wg*/P>?7<o0/\.\9o'AOStU,9/4[W@PW(E="ikHpXOiD)jd>\T365/pB^MuulGGJo\B`btQ3Yj[uOkA_cd,lU8"QCq1bi6[l][:$rf]TUqr@O\rhEc=+).QBAo3)beH&[E9clIts6I!H#69X,]UBl#\&74dEd/<o]CJZi[=FVi"$EXZ3_DYk-)^J4G0'-+B1cAlG9P3CtG&W,R,"]U$-2@HKhbf+Wh]cpq\+E!1]T^!ALed*=AAN[3.NfSX/Ir2DOO'dYjlb^P=kUoTB-B_6Z]OkgsS)I"P%"6(AN@VBnE7H84Duh14!uOQ3P;N;!LHH:O`Np8pr_0X1"p6g-ZKitu>X*/.;WgsP'ZC[=g<3l0S$[A7pI_0PhdB=8YP=A`fg,R3@3/h3IIe6?FIcGQMfmbHe_sU@DEY'+Ik5@e4X:o3f[%)C(NKDdg2S4nEZL4(ed5Ta]pAn,piBMbZ]aP8\)>-bZ6WgM,gFh(^"):S.,?qm9+U^(QC$@X@HM?D1#E/pP?MoYj=+GJj:'Ms&LLM7am\[%fJ!W..JK6p4qY(?m8ocpSt]q0DIbX9Wo%g6A&=uHDA,$%E]jcSOAr\9@E133aWMP(h:AM'NT'M,lF\m'i:?m4e&Ue;A-"K6?F;2:#LWI&(,oA!$kqJ.ptZR)NklUFF.,Y9frGa9@8,G3JMWQZeMu$tDhX#9!R9=t"%`$Co@mpc#&o/F*lFVKje:FcfaiJVDuQ(^hL+">lWJhCfefguhR.Iqg<?<h4JT$IJ7a.h+,i/i)iUkVAAN(^+r*FI;JoubfW)W.]ft2+_e'+?ZolilDcp>&b'*9"qu]02mH0ZM]6<#CoR+]^)cs2S`9f%[m/i=@oZ+I#k;6VS]:XGVM!+3sDYIjop)r'BK'8OPJZ6kdcQg9p3;aLXL*%t/q3."+VT-A/&mtNOeLXnI*RX^%Ei_?Cs0m(0=_Al^X!U0(DcGXLWMjl<8(cpFHF4<MhN*&nf#DmUfP7%S^!to>]bF1pZod#.i',9)1#Q8lqLGP@aVA=6%!cnqS>@,N9Fo!o9FDH1"Ypc&Aqs"J,\X(:F9M_N;p_];JBRLYcuNkcGg#>EM:nikB6dZ`SELh1%1_!&]oX-,f+L8gc'9\>5oLM8TSn3M4Am,1c1RZ3c:N=XmG5IR5%^FP(0@)@T_#P2Q'rb)*>V@l\TmJlZOU1=jH"GFIY/-9e9h99qCF<m.H1rd6:\\1^+18*"Ei&i;Dst$*T-$ZC$,WD]N`^i53BKj6*f?.@q#QVjNT?6(8uDUAkF"MR!$Os.E=[NU1+m,;i!G,dKR>S.&I6q1scMV?rn<?:XU.tn'r?C+\-<<8ZRa2j:6YLp:mX:FhSHsD)nY^EEWa;W-a-ai,p1bgCJdf:)0nHj@Q5#I3W[X<mKZV,*2p+TdF0<Up8D*eC[ptMQYG!ljY"WAZc'3GpO,1heBgN:aD:.[]WQ@:0L4noil$g=3aRIb5%<4`,TGH0^U[Dg]6;;7Ns6%<G3$Ok,Op"`#6SlV,6Y8c##Ou>A]inZK=3;=qf*5Bj'jnc!?`Q5]^;;7.BCoeQiXZ3d(JS78]\\-%Vgkf@eaF=$JNe-O>8^6=E95Bb89u3fA$T/WuA]i(Jdd8Au@PNM>I)^_K@&%ra"[(%G!?B/.HW;F86c+Y1]=&;_PpLKRZI-c;]&cD&M+b:0sZ0T0n-il)N#=I`UW=j9j^Mrb&[PtQ_,:]:ad]sB*~>endstream
+
+endobj
+% 'R275': class PDFStream 
+275 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3157 >>
+stream
+Gb!#^>BAOW(4OS'rklkG_^[`'8qJunZeHA0D-CSC?+8C$2m)rWOc[M;,SYd9W_S'A*e;bZ11cT**67co,'e,-SBH+/TFD\9g?(1biF3("]s5DN0H>`4&f6:(nD3TqMiTMur+J:]C&mW5a7W^[JtPnk^>n/@)R>O0\V7[tGAWgG&#cZrLT-[s+J,12Y:$^$YFOs/cuCZ.)MT?Xg@d<T06&+PV2sLb(e37R2uIPQLNj5#;*`2XR.=bt.49'@/-V<Z8HMa/AS065/Z#iPQGY]-,06Z%7U5&Z?q\QE,b2sb(sJhD8=$,m2Hc$H]^jf'9\CFVRRH3Z`dg1Bo#[+Bj7PMebVHFoGVh_?OXP6H,3=ojCf7JD=+n?pDe:2cXsP%c*R;+fgPIn^',]^I2j<1B7L;l"k(sgjKB4U4/6J4CC*RY8E#OK.<&p.&9SAcYI']N0?AhAFON4j],p6dP'&m^YABOIFA0pi3c$1[JOc9af/&%.EOf[D!/>c\Ce[@MNI^6Q7])QdC=)48=9e?#Udr\-"$Hl]1D)Ob`[<BhmNd3`g^a+[=:I<PqWE&S!GrWje_gW4_[9G]V"hL)d)L`4!r*,K+4DA[PQ;;nCf1HeooSKnORn%j@<p1K.2NroEh`>TKl2-f#19_eIK-#"iq\4G=8F]o,,Cu=r2"rsJZ!']OUP([OYD3oE:4&Trd*[0[eNC>\9"]I%fk-/o4Qd@)jBo2Xi)=7")ZbIu9/YAcn341d82onl(<I1;c(ZgebN],&LeS,_Mnn+MftQnef5@MQ'>u<rZn\Sfn1LM0@*r7"EeE$H(.-:H&Jd,"!tTHAi+Ku3I`LP2T'>Hh1h-T*KEV999BQWMQ>k(+/\>LOToA.p,k4D\\O>54_^U8%,9mA99ZEf'nAFbO'kg,CNkp?\\Z1]MXN6*MrK&>IP,sr)d4m$aLgsY?dB#&8h("6CH*qH%:e"^-h(,uiJS,SX;c'`*qg,S\>_ZK<m%>m<G8rD7E:TMh-l3;TbmhX/O-$8)"kj(om%0+fs#;LXdF=omVJS5/[2'L#T:GrscJ^qK&j"LP8Ao&5'n<):M$UL(EN.0s/kiXk@31!1_%Qg(2fS.b\3U]JO32<(-%V_M^rD7MF4Bu-2tQqVY&m^B26c3;q,E5\155bJ&JmtMk(Q4L^[8P6)>;T"mm3Os9O1gbI@.uq4LYQ>0jgm6fC3_oa/(Ir59Toj8:CmNFdb9<ok_i$%X;Y=d21c9=(S\PZ&*=^2V<paX#TBDRn0h?O[%f0bqME\_$L23'6n@JY^DfspKCA9VIaN:l!E[<[FbD((Gki@jo<HZZ2D)[H'IL#Y2<%6;/RV>E\L/T*H7qqRQZM37kCjhRI33tJL=_/0h[q).@i$+q-:oGd(XLm&nTCI8YL0Dn^a?%6%<IWKZDT_`@]%8s5^PtR_d1F>C!P4E;OM3T800>qusJ)*:`KD$gXsqm`N8:GT_"Bk9k=GgO>G<eSF69]n#moJMOX!kaC8uh;rUbh5&sabGC#PY\[>H3):kf@aIcu@&&#%[&`ChVll<V;JY$6l+j!0SCd/Weu@)q40SD.c?fj*.<5p^_b&'`[qsH$Z+C.Xb;-JAPV-&ZlDEc?^-^auX:q"uBrGI*3\<@a`ECJB(#O#UZ;?7X>p7f71.!e^r_u)Kp9pD%qe5n;\l0.#>:WW?5LXlV7\mVKDf/A=0r]A.h)gP+BCk5jrln?tHnD^RMUu;hmhc8qgQ#u6T^lO0@:"nU=A='_qmuSQD6%g6WPp?:js(W(c%Y<PNsR.UbAlj6o0;%O)Q_,u2+7c,='[3p)p8j<B+osKJ!>E#?n2!ITB4%!Wdg,NH,=cCQN+[*%igR>,J$^/Cmd1)*UR/\,+O'41uO$8lc07VX.tQsS^e%iqF8,=X`><*G":LcYrXW9]"*->p3>K3g4n`l$^%44n<ON*F8uH/`Uc*n>(SgO:hdX5:hU0=RVrdRQ.*6kXT`(l##u!([<>du-DW]hQ`"#l!hQYo_BY6^Uhg>L:[iES$E4u,H@S#'PGVWT$-5(=@tK9:W#2@NI\4!X/=_GXmFD40"H2!bc+/\(>%9M]8f3O'AUd>-3[3Ik[=b,@_GM6`lOGI>C'a&%P:E'Sl@j=gb/0SBU;T#ukWH_XI9Y<jE\Q$$S`iCaZkX)ZbU/\4lL`S.9?tFh-?+uV$aj4+O"sHXiDkb=Qbl\LZ`.$'l`R_2Y#!an[6E'XB9`dt@^I$ZBeCXa56`IK"=l<;Ehps:Ki<s[q5.tA\*\T#_%WQ_9efOJ9omLibdC9:j.XA+pJ)/;p=$'Y=LAANN"OOnBZ`?T5Ue!TA"Y?lO7'G;^ajWQ;p:>-CfhcPD6'#qT`!7=U1M$ji/$,8)FZcd8%]lPb%lVRO,^HRLKMgb\)r$jIZ&"/WckhP=e;&-3ZYg(F>-sO0+D/!\:K_$S.^;l/4Z854&nMA+lNOh.$qTT%;PWnhkr[)YM-b7W^C#o)@E\s_JEkc"lc8/q*&po-Me4WnAjd3DOe8%"Om`oW8@"$$.e5O6#j8bFb?OWQb5WY]-q40jgl_8G+Snt=,h*1T_iDMY??I*'R"Mr&+"5s,#^fd#>X#f\>XaI3Vn/q]k5p;\Dlh/No_57Z@/'9a'7H#N6np-`6l8]%Ai6\U)j)\o[Fj&a]N4AXT#ndV#e]3f9pAZ__eD`>dpP/WTmZ>r["06_WGeA$Z=Zt3`FgJ._a>""]d.;@]<b0$aWfFQ,oTrJaAS3eW>`7<4rX4N/<u%Q[Zb;o1anbM6&_7Qt!ih8aW@'O3a%8;>n)Wn)NZCGF*HBjmJnKK4]]*(mk,VLUrpiQ`0P'-@`=n1]OVe@ETt"iuPA`)PYg)cV>/PDhgF<h+\.123j4]J/]['X]JO6$GKSF_QsUK5iH4b(e"!.`:9\M]0bbkVVlgHBCJC1&R3+ZD0LNIe1Z2`fj0D2o=#]4(]+99'm!-jUPI($Np:]>.l[Y+2V&*=7eGSolsm:l1)df#As/$):],Co'@/]^rAp\!+T.#8D(X&6T-'R6?j,$YS)=T,_U4I&Tj5@jq#_";qI%b(X=Q#.S?7275`8X0dqagK[6bj*2BKm^S;3ddZ@)V.doDnQ^Vf1+:cENd$dGrJ+(u0S-]dm0Up,o;m!>'qd95@JL#j<n>o/5^gRbjZTh'm%@SnX0GkpA!,Atmc~>endstream
+
+endobj
+% 'R276': class PDFStream 
+276 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 2721 >>
+stream
+Gb!<S?$"c1'o)05PQ,S_]i_2=5mVp2bY?.233cCDE?]P7Saf-W$Be5LKGF^PW5$'%Um0LIAJ/NcN?)Y@=uqs/%h@If"dssp?aTYo:>sG3?G3+!?'rogqS\0R3Lid85PtETZd72%FScI6R!=)DLG3mVi^TMp^YW@!^M`]U^@q:k4Yd@PRTAl8,!l$J;>FNnoq`FZT/aEVUX9I:rjTJBqXr?IGP1(ro4Jq;9&'DO18agu"WFlr$GSfg^uXA>eE.4L<'Ps&IWSHJ,%_.okPPP@.5><Opa^Jo_o\@J%=FV[Ukis[lFs-FX)@=rmU$X8;+-9$gJ'7>&aG@1:qPe'/lg'"R)?;P7(.V)4P+PO=KFs8F24^4@Pdh-hOWFM+sY;0/IKQY)WYh7neSt/fh?(Haq_-s#,a#diMubE;TXW%Bb%mt`SlEnGX$S2Cr24X\V&BAqi4In<KSs=QSR.sqo-$NAR$l4iNQ<Hk=emfj9&Vm8Z]j&n('NO+$O>jU0n?=HDtG[=Mh7N`[./H=;Qi6d.H[+T5d,d@@B>bEd5dj+qn.]3P7!V(2+"m=MBGqA=Agrl<Ij>:.;=^g2uLJXk+[3q1[3=p&7[cS'pWL"(t&-1/'SKZARO83VqT\LaOTOV>5g5bZ@<D66kS<B,W*icLo_GmWb9W$#Ff]L\Tn\!ft'?nl;$]&<;[:O>+Z>)[qTrVXSM,9T*[mDt37")qY#0KsI*`"s2C.muO#u%W_LPo?PVJ((ZG^b1eJ0Cf\..Nodi]$'f9]_!E<IRFSS6k[f?@XL`HoL\=B>:I9PmKYHQY=B#msX]V5/LapbZg2WYkbtBd!R!r_.H&8'/W@X9bViH/j7FZBLi!pCID^#("UR*`O%d2;LiB.O^-eHOR&+ft`O'9!i^.loo5N+DC$30pJp+MeH`E?Au,V1WUhMjnYW<UqOS.r<hBLii;;PB;=`VKK%h2@X"Var9^B94<H<mGsp^J:cg]K6$O3J/b^\=6WQ*3l^srG=7%6T/gPO6ff3?!of"]:`l24jMMl:M]h4?RZtji]0V(?>BnO2'oEV3%rl#P?kJ_c*(I3"ndJg2+Vl;g3Sm<Hnl09iEK`fKb_K4ZeJPM<dq)1)Cm*h4[4`8UTY9PZ2OMdb=:P(P3ho)+>4Y\aFmW.I1]-:#^Hm6\[>`c?oI^G`roOQIpqVq-n%=2_t7#9d2KRF1SNnpI4<kg)P!Llg=FWTUDJZ,A4"VK^VC8+iXRImYKI&j/LkjRp6h6"kCLkrqLK5DfD>?,L*;E;+Fr4nR]gre0F(l>-.m?\R%Y1P9c-e*ZTE*pYbcBWA_dGP%*f5T^f`?+4eR%2HuRj:E(s@rbOSbP<dNM1P9aFZ82K(^;]"OTFhSfm<hP(B6k)EY((=*1HUh2>4m]q-1?s_,<6f$4GqJgYp+hr%<\d7VJm;oGa8#NhJ(G-'q#:Z?Z$o5+3^=c@\Bi=c0^u)@E^1cL-Sc!(IV=3`l+;WFK@93WR8.X1Tte"m@CGPXTLY<pN8bF]!)G5JXmp(`Q\1r>7]H2bh9p'-Z/@K*kM)V)"p9Wqlg)2)RQoeOhUjW`P4)g@AE.k*arMIc^>'MGo1W5\<rCgf1$;ap6u?2j&Dn^KM2Mg$4i?7qQE85C^V\Nfon<AB/\d$=nM;.8?9/M==Xk'#<';>Q9+M!DV:)RtdT%;^Y:s;7=+>u]rU@'35$]1?="ahQ0q!\fH-=`1$=(6S^l3Z_0MRl_-\QSJ7*jFuY3-F^m`--K_5?B>hMPj`ZG"6S-t3\<M-LSn=a@+qUnp]CC77Dr@$KCO3M7XFf_t)Ge._FQV!/(IaIG3U'DS2`BU8Un4&uaO]=)5Jk.s(%*+oK-Kn_B_MKS%(CnWhle`^h3Z!7j-E1Z4REu<[L<+f!b%.f*>0/nuK3R@@Fi<9-'Z5J9WAn[j61t!@JVo`7jLMcA.ACP\VAlq+1ApYlcm],f\0uo.YT3]QDrsZC3'.BGnVD))@ocnn+`p^EqqW&F,0[1D3$(ep"IabI%C)QF]^[,L\dlm+mH1M7n;GL^qjpE0;<%:b^]pA7/q^+IOf&rOg<9gAe7Wl@I.EUT25%'RXgTt9YD*](_.W;`M-Y_#\F=ik]2j0+dif7562V@XIGuciRW^F$H/#2WS;TbqEV@?.*1,<o&Qshpt1Jp(QT#U2/e._>*aQ%]5-B1UKK(4#jVFDhED%&?@ogQFkdA;S:jdVpN?jqK4"`PQT<9[rC'CD@.SGPj:g?>[CZgu"*GDDF[`uO#r$WPLXpGC;p$O5e=)N&lfgc?$^0^;kd8sqNS,GUfI_$n#fM24C)Tkpst8[@;[p3lTj8tkZ.4_3Spo\nVCQrJLS=J^n_8^0cGQE!mA&[+&DBenu<#fjoYa>GT21OeNkgMX5m2GH]-8sPIY>,^kYoORfl82cMA29JY91J(UsQ63Oc<eF+bW#:(!WY*^qddl)c#p$Kls!FMTWAJtW;b]#2C;D9dS"U&)Tl!KtD>GaI8r;V+W$^[0W!+8ZD@TVUC$SO\S+QDP%.K<%2+a^F"eTpT:&uBp\8@_Maf$T<GPkVZjZMYP=CjhMed;9sh+@X^Z6'Es4#EkdJ]6CiChrc'f_!,Y;6G1jbuMl.oHUk`kN)>VrM(D,;ljOL=;-\M:<Mr+)i"6>7&#lBmgd]:\,36uR^F0@g5#Cd9%Usa@.[SMf2@`ZMV@_G;PU"Ao]bJFjb0N"OC=dU3DL4)^\i27$JN;eBE&4URu%m~>endstream
+
+endobj
+% 'R277': class PDFStream 
+277 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 787 >>
+stream
+Gau`Q9omaW&A;01Ii.9t!XC*uQQ8IZXOqRG,42Z:/k@C5]re=^l.TiEs#k7_IVqbF=bKs)p38^ko%o=b_:ChU5$84o0j$RIfR`euY_P>sqf!R"4-/4C?2;G3#)=DS$bQJ<m3!cu?+mqfXbp>OluF:?h2]dd>B^\L+\p4n"SlV<N#[><g&/4/]GP\r8ebODKQmRgWtNe8k21iK:`&q6$V]`FKPM8@i27C8n!K1Lh&9H3DuHB[kjui4-`]JS5nrWdWi%luh-$UoIfQBes"-5oaZ4aj`.CWVcO.CD+jZk.=YZ7m65F8ai;Y$[g;rmbR]:]]GfG!IdtR^io'op"gkAIA29eY<cU[@gHNCFc1S>cZmlL4A:mY`:'Mj!T["jW.7*]dhe+R$b$Hgh*af_;R!!ON+X=.@sY)g5'^I\MLdEoGJYE>k;6$oEp3o^<D@[-C+$s$2F[cn8UDgB0q:iIZBWQ<S4[G&.H@.i;L=B"e$'%s4lDpt,pTs&r0cGfX14V%<?Qc!$UPUOmkE6;$n)$@HOIBAPEgk)4Y,mJE=(;Qf(;N[Z1UgX!\e+=L-inN`u]-^740UDV[1<)a;HYlp/jV$s_,*o--@k<b&:8ZRSQqFZ$;"c01MeP_=CY@:#&]aVZU5&pudipQ5Hr/[>OCZIT<=!2eFbl]^-B2'Na1f6P7_pBpjKiP'cQ`s*U(!npibc]Ana)fU5@u[Ck^,/'Th?Ec<B4AZP!p#:ogEdXQhoEq*.O%]8n`&Xfg7XH@*0_,YH?(te:FcA/1Ir*'=s`A^l^ih~>endstream
+
+endobj
+xref
+0 278
+0000000000 65535 f
+0000000113 00000 n
+0000000272 00000 n
+0000000449 00000 n
+0000000681 00000 n
+0000000850 00000 n
+0000001043 00000 n
+0000001314 00000 n
+0000001569 00000 n
+0000001756 00000 n
+0000002067 00000 n
+0000002330 00000 n
+0000002585 00000 n
+0000002890 00000 n
+0000003132 00000 n
+0000003385 00000 n
+0000003648 00000 n
+0000003912 00000 n
+0000004210 00000 n
+0000004507 00000 n
+0000004805 00000 n
+0000005103 00000 n
+0000005401 00000 n
+0000005665 00000 n
+0000005929 00000 n
+0000006192 00000 n
+0000006489 00000 n
+0000006786 00000 n
+0000007083 00000 n
+0000007342 00000 n
+0000007605 00000 n
+0000007885 00000 n
+0000008106 00000 n
+0000008646 00000 n
+0000008887 00000 n
+0000009155 00000 n
+0000009409 00000 n
+0000009707 00000 n
+0000010118 00000 n
+0000010290 00000 n
+0000010554 00000 n
+0000010852 00000 n
+0000011079 00000 n
+0000011460 00000 n
+0000011757 00000 n
+0000012054 00000 n
+0000012351 00000 n
+0000012633 00000 n
+0000012978 00000 n
+0000013275 00000 n
+0000013572 00000 n
+0000013814 00000 n
+0000014056 00000 n
+0000014353 00000 n
+0000014595 00000 n
+0000015012 00000 n
+0000015275 00000 n
+0000015537 00000 n
+0000015789 00000 n
+0000016044 00000 n
+0000016307 00000 n
+0000016580 00000 n
+0000016843 00000 n
+0000017087 00000 n
+0000017515 00000 n
+0000017763 00000 n
+0000018225 00000 n
+0000018482 00000 n
+0000018739 00000 n
+0000018989 00000 n
+0000019243 00000 n
+0000019498 00000 n
+0000019757 00000 n
+0000020018 00000 n
+0000020276 00000 n
+0000020698 00000 n
+0000021122 00000 n
+0000021552 00000 n
+0000021985 00000 n
+0000022304 00000 n
+0000022623 00000 n
+0000022936 00000 n
+0000023259 00000 n
+0000023563 00000 n
+0000023871 00000 n
+0000024174 00000 n
+0000024473 00000 n
+0000024768 00000 n
+0000025069 00000 n
+0000025366 00000 n
+0000025663 00000 n
+0000025957 00000 n
+0000026237 00000 n
+0000026481 00000 n
+0000026724 00000 n
+0000026966 00000 n
+0000027288 00000 n
+0000027531 00000 n
+0000027775 00000 n
+0000028017 00000 n
+0000028275 00000 n
+0000028541 00000 n
+0000028827 00000 n
+0000029056 00000 n
+0000029702 00000 n
+0000029962 00000 n
+0000030205 00000 n
+0000030488 00000 n
+0000030733 00000 n
+0000030977 00000 n
+0000031241 00000 n
+0000031490 00000 n
+0000031735 00000 n
+0000031981 00000 n
+0000032226 00000 n
+0000032507 00000 n
+0000032751 00000 n
+0000032997 00000 n
+0000033243 00000 n
+0000033489 00000 n
+0000033718 00000 n
+0000034189 00000 n
+0000034435 00000 n
+0000034680 00000 n
+0000034984 00000 n
+0000035256 00000 n
+0000035524 00000 n
+0000035777 00000 n
+0000036021 00000 n
+0000036273 00000 n
+0000036518 00000 n
+0000036829 00000 n
+0000037074 00000 n
+0000037320 00000 n
+0000037565 00000 n
+0000037795 00000 n
+0000037987 00000 n
+0000038331 00000 n
+0000038576 00000 n
+0000038891 00000 n
+0000039136 00000 n
+0000039381 00000 n
+0000039626 00000 n
+0000039869 00000 n
+0000040098 00000 n
+0000040629 00000 n
+0000040932 00000 n
+0000041178 00000 n
+0000041423 00000 n
+0000041675 00000 n
+0000041920 00000 n
+0000042170 00000 n
+0000042421 00000 n
+0000042689 00000 n
+0000042966 00000 n
+0000043346 00000 n
+0000043637 00000 n
+0000043882 00000 n
+0000044169 00000 n
+0000044414 00000 n
+0000044699 00000 n
+0000044944 00000 n
+0000045225 00000 n
+0000045470 00000 n
+0000045755 00000 n
+0000046000 00000 n
+0000046295 00000 n
+0000046539 00000 n
+0000046822 00000 n
+0000047067 00000 n
+0000047380 00000 n
+0000047626 00000 n
+0000047871 00000 n
+0000048117 00000 n
+0000048363 00000 n
+0000048609 00000 n
+0000048838 00000 n
+0000049459 00000 n
+0000049705 00000 n
+0000049950 00000 n
+0000050221 00000 n
+0000050466 00000 n
+0000050778 00000 n
+0000051023 00000 n
+0000051316 00000 n
+0000051561 00000 n
+0000051852 00000 n
+0000052097 00000 n
+0000052342 00000 n
+0000052585 00000 n
+0000052826 00000 n
+0000053069 00000 n
+0000053362 00000 n
+0000053646 00000 n
+0000053936 00000 n
+0000054227 00000 n
+0000054527 00000 n
+0000054810 00000 n
+0000055103 00000 n
+0000055624 00000 n
+0000055909 00000 n
+0000056203 00000 n
+0000056502 00000 n
+0000056816 00000 n
+0000057116 00000 n
+0000057399 00000 n
+0000057698 00000 n
+0000057998 00000 n
+0000058279 00000 n
+0000058589 00000 n
+0000058870 00000 n
+0000059157 00000 n
+0000059444 00000 n
+0000059731 00000 n
+0000060024 00000 n
+0000060298 00000 n
+0000060574 00000 n
+0000060848 00000 n
+0000061135 00000 n
+0000061425 00000 n
+0000061708 00000 n
+0000061990 00000 n
+0000062255 00000 n
+0000062540 00000 n
+0000062838 00000 n
+0000063112 00000 n
+0000063396 00000 n
+0000063661 00000 n
+0000063967 00000 n
+0000064232 00000 n
+0000064500 00000 n
+0000064765 00000 n
+0000065066 00000 n
+0000065339 00000 n
+0000065616 00000 n
+0000065882 00000 n
+0000066169 00000 n
+0000066434 00000 n
+0000066713 00000 n
+0000066985 00000 n
+0000067254 00000 n
+0000067520 00000 n
+0000067795 00000 n
+0000068054 00000 n
+0000068313 00000 n
+0000068572 00000 n
+0000068831 00000 n
+0000069090 00000 n
+0000069349 00000 n
+0000069608 00000 n
+0000069867 00000 n
+0000070126 00000 n
+0000070385 00000 n
+0000070644 00000 n
+0000070903 00000 n
+0000071147 00000 n
+0000072018 00000 n
+0000072276 00000 n
+0000072532 00000 n
+0000072792 00000 n
+0000073119 00000 n
+0000073261 00000 n
+0000073641 00000 n
+0000073769 00000 n
+0000074002 00000 n
+0000074180 00000 n
+0000074316 00000 n
+0000074524 00000 n
+0000078393 00000 n
+0000083217 00000 n
+0000087726 00000 n
+0000092410 00000 n
+0000096033 00000 n
+0000099714 00000 n
+0000103271 00000 n
+0000106399 00000 n
+0000109703 00000 n
+0000112571 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\177\001\334\247^\224M\207\307\372\224\254\022|\013^) (\177\001\334\247^\224M\207\307\372\224\254\022|\013^)] 
+
+ /Info 261 0 R
+ /Root 260 0 R
+ /Size 278 >>
+startxref
+113476
+%%EOF

@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html class="js" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Scaling Mania at MySQL Conference 2008 | High Scalability</title>
+
+  
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://highscalability.com/files/garland_favicon.gif" type="image/x-icon">
+    <style type="text/css" media="all">@import "/files/css/777aa57239e0f3dcef9ad7867a0484ee.css";</style>
+    <script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/jquery.js"></script>
+<script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/drupal.js"></script>
+<script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/textarea.js"></script>
+    <style type="text/css" media="print">@import "/themes/garland/print.css";</style><!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/themes/garland/fix-ie.css";</style>
+    <![endif]--></head><body class="sidebars">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="http://highscalability.com/" title="High Scalability Building bigger, faster, more reliable websites."><span>High Scalability</span> Building bigger, faster, more reliable websites.</a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="first menu-1-1-2"><a href="http://highscalability.com/" title="Go to the main High Scalability page." class="menu-1-1-2">Home</a></li>
+<li class="menu-1-2-2"><a href="http://highscalability.com/start-here" title="Learn about how you get the most out of the High Scalibility web site." class="menu-1-2-2">Start Here</a></li>
+<li class="menu-1-3-2"><a href="http://highscalability.com/forum" title="Forums. Don't be afraid to ask if you have a question.  Someone will probably be able to help." class="menu-1-3-2">Ask a Question</a></li>
+<li class="menu-1-4-2"><a href="http://highscalability.com/links/weblink/24" title="A list of real life examples on how to build large scalable websites. Learn by example." class="menu-1-4-2">Real Life Architectures</a></li>
+<li class="menu-1-5-2"><a href="http://highscalability.com/links/weblink" title="Take a look at all content on this website organized by category." class="menu-1-5-2">All Weblinks</a></li>
+<li class="menu-1-6-2"><a href="http://highscalability.com/glossary" title="A list of common terms and products." class="menu-1-6-2">Glossary</a></li>
+<li class="menu-1-7-2"><a href="http://highscalability.jobamatic.com/a/jbb/find-jobs" title="Only the cream of the industry reads a site like this. Some of them may need a job and you can reach them here." class="menu-1-7-2">Jobs</a></li>
+<li class="menu-1-8-2"><a href="http://highscalability.com/node/add/weblink" title="Add an interesting link to this website." class="menu-1-8-2">Submit a Link</a></li>
+<li class="last menu-1-9-2"><a href="http://highscalability.com/contact" title="Contact a real live person." class="menu-1-9-2">Contact</a></li>
+</ul>                
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="http://highscalability.com/node/add">Create content</a></li>
+<li class="leaf"><a href="http://highscalability.com/tracker">Recent posts</a></li>
+<li class="leaf"><a href="http://highscalability.com/book-store" title="Books useful in building your scalable web site.">Useful Books</a></li>
+<li class="leaf"><a href="http://highscalability.com/links/weblink/70" title="Tools, software, products and anything else people have found useful when building their websites.">Useful Products</a></li>
+<li class="leaf"><a href="http://highscalability.com/tags/strategy" title="Strageties you can use to help scale your website.">Useful Strategies</a></li>
+<li class="leaf"><a href="http://highscalability.com/links/weblink/75" title="Blogs you may find useful in building scalable websites.">Useful Blogs</a></li>
+<li class="leaf"><a href="http://highscalability.com/links/weblink/83" title="Papers that can help you build a better website.">Useful Papers</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-adsense-0" class="clear-block block block-adsense">
+
+
+  <div class="content"><!--adsense: cached-->
+<div class="adsense">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9451539202293335";
+google_ad_type = "text";
+google_ad_channel = "";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_color_border = "d5b048";
+google_color_bg = "FFFFFF";
+google_color_link = "971702";
+google_color_url = "971702";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/show_ads.js">
+</script><iframe name="google_ads_frame" src="scaling-mania-mysql-conference-2008_files/ads." marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" height="600" scrolling="no" width="160"></iframe>
+</div>
+</div>
+</div>
+<div id="block-user-3" class="clear-block block block-user">
+
+  <h2>Who's online</h2>
+
+  <div class="content">There are currently <em>0 users</em> and <em>163 guests</em> online.</div>
+</div>
+<div id="block-user-0" class="clear-block block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/scaling-mania-mysql-conference-2008?destination=node%2F374" method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input style="background-color: rgb(255, 255, 160);" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" type="text">
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input name="pass" id="edit-pass" maxlength="60" size="15" class="form-text required" type="password">
+</div>
+<input name="op" id="edit-submit" value="Log in" class="form-submit" type="submit">
+<div class="item-list"><ul><li><a href="http://highscalability.com/user/register" title="Create a new user account.">Create new account</a></li><li><a href="http://highscalability.com/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input name="form_id" id="edit-user-login-block" value="user_login_block" type="hidden">
+
+</div></form>
+</div>
+</div>
+<div id="block-node-0" class="clear-block block block-node">
+
+  <h2>Syndicate</h2>
+
+  <div class="content"><a href="http://highscalability.com/rss.xml" class="feed-icon"><img src="scaling-mania-mysql-conference-2008_files/feed.png" alt="Syndicate content" title="Syndicate content" height="16" width="16"></a></div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <div class="breadcrumb"><a href="http://highscalability.com/">Home</a></div>          
+                    <h2>Scaling Mania at MySQL Conference 2008</h2>          
+          
+                              
+<div id="node-374" class="node">
+
+<div class="picture"><a href="http://highscalability.com/user/todd-hoff" title="View user profile."><img src="scaling-mania-mysql-conference-2008_files/picture-5.jpg" alt="Todd Hoff's picture" title="Todd Hoff's picture"></a></div>
+
+      <span class="submitted">Fri, 04/18/2008 - 16:15 — <a href="http://highscalability.com/user/todd-hoff" title="View user profile.">Todd Hoff</a></span>
+  
+  <div class="content">
+    <p></p><ul id="links_weblink_list"><li><a href="http://highscalability.com/links/goto/374/265/links_weblink" title="http://en.oreilly.com/mysql2008/public/content/home" class="outgoing"> Scaling Mania at MySQL Conference 2008 (297)</a></li></ul><!-- google_ad_section_start --><p> The 2008 <a class="glossary-term" href="http://highscalability.com/tags/mysql"><acronym title="MySQL: The world's most popular open source database. A common database choice for websites.&lt;/p&gt;
+&lt;p&gt;http://www.mysql.com/">MySQL</acronym></a> Conference &amp; Expo has now closed, but what is still open for viewing is all the MySQL scaling knowledge that was shared. <a href="http://www.planetmysql.org/">Planet MySQL</a> is a great source of the goings on:<br>
+</p><li> <a href="http://jcole.us/mysqluc/2008/Scaling%20out%20MySQL%20-%20Hardware%20today%20and%20tomorrow.pdf">Scaling out MySQL: Hardware today and tomorrow</a>
+by Jeremy Cole and Eric Bergen of Proven Scaling. In it are answered
+all the big questions of life: What about 64-bit? How many cores? How
+much memory? Shared storage? Finally we learn the secrets of true
+happiness.<br>
+</li><li><a href="http://technocation.org/files/videos/original/2008_04_16_panel.wmv">Panel Video: Scaling MySQL? Up or Out?</a>. Don't have time? Take a look at the <a href="http://www.paragon-cs.com/wordpress/?p=144">Diamond Note</a> excellent game day summary. Companies like MySQL, <a class="glossary-term" href="http://highscalability.com/tags/sun"><acronym title="Sun: Sun has one of the best OSes on the market and large selection of servers, storage, and other products that are popular in data centers.&lt;/p&gt;
+&lt;p&gt;http://www.sun.com/">Sun</acronym></a>,
+Flickr, Fotolog, Wikipedia, Facebook and YouTube share intel on how
+many web servers they have, how they handle failure, and how they scale.<br>
+</li><li>Kevin Burton in <a href="http://feedblog.org/2008/04/17/slides-from-spinn3r-architecture-talk-at-2008-mysql-users-conference/">Scaling MySQL and </a><a class="glossary-term" href="http://highscalability.com/tags/java"><acronym title="Java: Java is a programming language originally developed by Sun Microsystems and released in 1995. Java applications are typically compiled to bytecode, although compilation to native machine code is also possible. At runtime, bytecode is usually either interpreted or compiled to native code for execution, although direct hardware execution of bytecode by a Java processor is also possible.&lt;/p&gt;
+&lt;p&gt;Java is very popular on the server side because it is free, relatively high performing. has a large number of useful libraries, and great development tools. Websites build using Java generally use application servers and are accessed using servelets.&lt;/p&gt;
+&lt;p&gt;http://www.java.com/en/">Java</acronym></a>
+in High Write Throughput Environments - How we built Spinn3r shows how
+they crawl and index 500k posts per hour using MySQL and 40 servers.<br>
+</li><li>Venu Anuganti channels Dathan Pattishall's talk on <a href="http://venublog.com/2008/04/17/notes-on-scaling-heavy-concurrent-writes-in-real-time/">scaling heavy concurrent writes in real time</a>.<br>
+</li><li>This time Venu channels <a href="http://venublog.com/2008/04/17/notes-on-innodb-scale-on-servers-with-many-cores/">Helping InnoDB scale on servers with many cores </a> by Mark Callaghan from Google.<br>
+</li><li><a href="http://www.scribd.com/doc/2569362/Exploring-Amazon-EC2-for-Scaleout-Applications">Exploring Amazon </a><a class="glossary-term" href="http://highscalability.com/tags/ec2"><acronym title="EC2: Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers.&lt;/p&gt;
+&lt;p&gt;http://aws.amazon.com/">EC2</acronym></a> for Scale-out Applications by Morgan Tocker, MySQL Canada, Carl Mercier, Defensio. <a class="glossary-term" href="http://highscalability.com/tags/ror"><acronym title="RoR: Rails is a full-stack framework for developing database-backed web applications according to the Model-View-Control pattern. From the Ajax in the view, to the request and response in the controller, to the domain model wrapping the database, Rails gives you a pure-Ruby development environment. To go live, all you need to add is a database and a web server.&lt;/p&gt;
+&lt;p&gt;http://rubyonrails.org/">RoR</acronym></a>
+based spam filtering services that runs completely on EC2. Show
+evolution from a simple configuration to a sharded architecture.<br>
+</li><li><a href="http://www.scribd.com/doc/2569357/Applied-Partitioning-and-Scaling-Your-Database-System">Applied Partitioning and Scaling Your (OLTP) </a><a class="glossary-term" href="http://highscalability.com/tags/database"><acronym title="Database: In computing, a database can be defined as a structured collection of records or data that is stored in a computer so that a program can consult it to answer queries. The records retrieved in answer to queries become information that can be used to make decisions. The computer program used to manage and query a database is known as a database management system (DBMS). The properties and design of database systems are included in the study of information science.">Database</acronym></a> System by Phil Hilderbrand.<br>
+</li><li><a href="http://www.scribd.com/doc/2569319/Real-World-Web-Performance-Scalability">Real World Web: </a><a class="glossary-term" href="http://highscalability.com/tags/performance"><acronym title="Performance: A category for performance related tools and topics.">Performance</acronym></a> &amp; <a class="glossary-term" href="http://highscalability.com/tags/scalability"><acronym title="Scalability: Scalability is the ability to keep solving a problem as the size of the problem increases.&lt;/p&gt;
+&lt;p&gt;Scale is measured relative to your requirements. As long as you can scale enough to solve your problem then you have scale. If you can handle the number of objects and events required for your application then you can scale. It doesn't really matter what the numbers are.&lt;/p&gt;
+&lt;p&gt;Scaling often creates a difference in kind for potential solutions. The solution you need to handle a small problem is not the same as you need to handle a large problem. If you incrementally try to evolve one into the other you can be in for a rude surprise, because it won't work as you pass through different points of discontinuity.&lt;/p&gt;
+&lt;p&gt;Scale is not language or framework specific. It is a matter of approach and design. &lt;/p&gt;
+&lt;p&gt;http://www.possibility.com/epowiki/Wiki.jsp?page=Scalability&lt;br /&gt;">Scalability</acronym></a> by Ask Bjorn Hansen. (189 slides!). He promises you haven't seen this talk before. The secret: Think Horizontal.<br>
+</li><li>Too many to list here. All the presentations are available on <a href="http://www.scribd.com/search?query=tags%3Amysqluc08&amp;sortorder=time">scribd</a>. 
+<!-- google_ad_section_end -->  </li></div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+          <div class="terms"><ul class="links inline"><li class="first taxonomy_term_4"><a href="http://highscalability.com/tags/mysql" rel="tag" title="The world's most popular open source database. A common database choice for websites.
+
+
+http://www.mysql.com/" class="taxonomy_term_4">MySQL</a></li>
+<li class="last taxonomy_term_22"><a href="http://highscalability.com/tags/shard" rel="tag" title="A shard architecture partitions data on to multiple servers so each server holds a shard of the data. It's a federated model. You can partition data by user, by type (photo, messages, etc), or a combination.
+
+Some advantages are:
+* faster backup
+* faster recovery
+* data can fit into memory
+* data is easier to manage
+* provided more write bandwidth because you aren't writing to a single master. In a single master architecture write bandwidth is throttled.
+
+This technique is used by many large websites, including eBay, Yahoo, LiveJournal, and Flickr." class="taxonomy_term_22">Shard</a></li>
+</ul></div>
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first links_weblink"><a href="http://highscalability.com/links/goto/374/265/links_weblink" title="http://en.oreilly.com/mysql2008/public/content/home" class="outgoing links_weblink">Visit Scaling Mania at MySQL Conference 2008</a></li>
+<li class="last statistics_counter"><span class="statistics_counter">3493 reads</span></li>
+</ul></div>
+      </div>
+
+</div><div id="comments"><h2 class="comments">Comments</h2><a id="comment-1300"></a>
+<div class="comment odd">
+
+  <div class="clear-block">
+      <span class="submitted">Fri, 04/18/2008 - 17:27 — <a href="http://blog.kovyrin.net/">Alexey Kovyrin</a> (not verified)</span>
+  
+  
+  
+    <h3><a href="http://highscalability.com/scaling-mania-mysql-conference-2008#comment-1300" class="active">Re: Scaling Mania at MySQL Conference 2008</a></h3>
+
+    <div class="content">
+       <p>More presentations available here: <a href="http://www.scribd.com/search?query=tags%3Amysqluc08&amp;sortorder=time" title="http://www.scribd.com/search?query=tags%3Amysqluc08&amp;sortorder=time">http://www.scribd.com/search?query=tags%3Amysqluc08&amp;sortorder=time</a></p>
+     </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="http://highscalability.com/comment/reply/374/1300" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<a id="comment-1307"></a>
+<div class="comment even">
+
+  <div class="clear-block">
+      <span class="submitted">Fri, 04/18/2008 - 22:14 — <a href="http://highscalability.com/user/todd-hoff" title="View user profile.">Todd Hoff</a></span>
+  
+  
+  <div class="picture"><a href="http://highscalability.com/user/todd-hoff" title="View user profile."><img src="scaling-mania-mysql-conference-2008_files/picture-5.jpg" alt="Todd Hoff's picture" title="Todd Hoff's picture"></a></div>
+    <h3><a href="http://highscalability.com/scaling-mania-mysql-conference-2008#comment-1307" class="active">Re: Scaling Mania at MySQL Conference 2008</a></h3>
+
+    <div class="content">
+       <p>Thanks! I'll add that link.</p>
+     </div>
+
+  </div>
+
+      <div class="links"><ul class="links"><li class="first last comment_reply"><a href="http://highscalability.com/comment/reply/374/1307" class="comment_reply">reply</a></li>
+</ul></div>
+  </div>
+<form action="/scaling-mania-mysql-conference-2008" method="post" id="comment-controls">
+<div><div class="box">
+
+  <h2>Comment viewing options</h2>
+
+  <div class="content"><div class="container-inline"><input name="form_id" id="edit-comment-controls" value="comment_controls" type="hidden">
+<div class="form-item">
+ <select name="mode" class="form-select" id="edit-mode"><option value="1">Flat list - collapsed</option><option value="2" selected="selected">Flat list - expanded</option><option value="3">Threaded list - collapsed</option><option value="4">Threaded list - expanded</option></select>
+</div>
+<div class="form-item">
+ <select name="order" class="form-select" id="edit-order"><option value="1">Date - newest first</option><option value="2" selected="selected">Date - oldest first</option></select>
+</div>
+<div class="form-item">
+ <select name="comments_per_page" class="form-select" id="edit-comments-per-page"><option value="10">10 comments per page</option><option value="30">30 comments per page</option><option value="50" selected="selected">50 comments per page</option><option value="70">70 comments per page</option><option value="90">90 comments per page</option><option value="150">150 comments per page</option><option value="200">200 comments per page</option><option value="250">250 comments per page</option><option value="300">300 comments per page</option></select>
+</div>
+<input name="op" id="edit-submit" value="Save settings" class="form-submit" type="submit">
+</div><div class="description">Select your preferred way to display the comments and click "Save settings" to activate your changes.</div></div>
+</div>
+
+</div></form>
+<div class="box">
+
+  <h2>Post new comment</h2>
+
+  <div class="content"><form action="/comment/reply/374" method="post" id="comment-form">
+<div><div class="form-item">
+ <label for="edit-name">Your name: </label>
+ <input style="background-color: rgb(255, 255, 160);" maxlength="60" name="name" id="edit-name" size="30" value="Anonymous" class="form-text" type="text">
+</div>
+<div class="form-item">
+ <label for="edit-mail">E-mail: </label>
+ <input style="background-color: rgb(255, 255, 160);" maxlength="64" name="mail" id="edit-mail" size="30" value="" class="form-text" type="text">
+ <div class="description">The content of this field is kept private and will not be shown publicly.</div>
+</div>
+<div class="form-item">
+ <label for="edit-homepage">Homepage: </label>
+ <input maxlength="255" name="homepage" id="edit-homepage" size="30" value="" class="form-text" type="text">
+</div>
+<div class="form-item">
+ <label for="edit-subject">Subject: </label>
+ <input maxlength="64" name="subject" id="edit-subject" size="60" value="Re: Scaling Mania at MySQL Conference 2008" class="form-text" type="text">
+</div>
+<div class="form-item">
+ <label for="edit-comment">Comment: <span class="form-required" title="This field is required.">*</span></label>
+ <div class="resizable-textarea"><textarea cols="60" rows="15" name="comment" id="edit-comment" class="form-textarea resizable required processed"></textarea><div style="margin-right: -4px;" class="grippie"></div></div>
+</div>
+<ul class="tips"><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Allowed
+HTML tags: &lt;a&gt; &lt;em&gt; &lt;strong&gt; &lt;cite&gt;
+&lt;code&gt; &lt;ul&gt; &lt;ol&gt; &lt;li&gt; &lt;dl&gt; &lt;dt&gt;
+&lt;dd&gt;&lt;div ?=?&gt;&lt;p ?=?&gt; &lt;img ?=?&gt;&lt;h1
+?=?&gt;&lt;h2 ?=?&gt;&lt;h3 ?=?&gt;</li><li>Lines and paragraphs break automatically.</li><li>Glossary terms will be automatically marked with links to their descriptions</li><li>You may link to webpages <a href="http://highscalability.com/%3Cem%3E/filter/tips#weblink%3C/em%3E">through the weblinks registry</a></li></ul><p><a href="http://highscalability.com/filter/tips">More information about formatting options</a></p><input name="form_id" id="edit-comment-form" value="comment_form" type="hidden">
+<input name="seed" id="edit-seed" value="28dd13a4b5de17f6062055384497e7e2" type="hidden">
+<img src="scaling-mania-mysql-conference-2008_files/28dd13a4b5de17f6062055384497e7e2"><div class="form-item">
+ <label for="edit-captcha-answer">Answer: <span class="form-required" title="This field is required.">*</span></label>
+ <input maxlength="128" name="captcha_answer" id="edit-captcha-answer" size="25" value="" class="form-text required" type="text">
+ <div class="description">To combat spam, please enter the code in the image.</div>
+</div>
+<input name="op" id="edit-preview" value="Preview comment" class="form-submit" type="submit">
+<input name="op" id="edit-submit" value="Post comment" class="form-submit" type="submit">
+
+</div></form>
+</div>
+</div>
+</div>          <span class="clear"></span>
+                    <div id="footer">
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-google_cse-0" class="clear-block block block-google_cse">
+
+
+  <div class="content"><form action="/search/google" method="get" id="google-cse-searchbox-form">
+<div><input name="cx" id="edit-cx" value="012108333369835174847:fp3ksdkn3xs" type="hidden">
+<input name="cof" id="edit-cof" value="FORID:11" type="hidden">
+<div class="form-item">
+ <input style="background: rgb(255, 255, 255) url(http://www.google.com/coop/images/google_custom_search_watermark.gif) no-repeat scroll left center; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text" type="text">
+</div>
+<input name="op" id="edit-sa" value="Search" class="form-submit" type="submit">
+<input name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form" type="hidden">
+
+</div></form>
+</div>
+</div>
+<div id="block-statistics-0" class="clear-block block block-statistics">
+
+  <h2>Popular content</h2>
+
+  <div class="content"><div class="item-list"><h3>Today's:</h3><ul><li><a href="http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it">Latency is Everywhere and it Costs You Sales - How to Crush it</a></li><li><a href="http://highscalability.com/useful-cloud-computing-blogs">Useful Cloud Computing Blogs</a></li><li><a href="http://highscalability.com/youtube-architecture">YouTube Architecture</a></li><li><a href="http://highscalability.com/unorthodox-approach-database-design-coming-shard">An Unorthodox Approach to Database Design : The Coming of the Shard</a></li><li><a href="http://highscalability.com/amazon-architecture">Amazon Architecture</a></li><li><a href="http://highscalability.com/google-architecture">Google Architecture</a></li></ul></div><br><div class="item-list"><h3>All time:</h3><ul><li><a href="http://highscalability.com/youtube-architecture">YouTube Architecture</a></li><li><a href="http://highscalability.com/plentyoffish-architecture">PlentyOfFish Architecture</a></li><li><a href="http://highscalability.com/google-architecture">Google Architecture</a></li><li><a href="http://highscalability.com/flickr-architecture">Flickr Architecture</a></li><li><a href="http://highscalability.com/amazon-architecture">Amazon Architecture</a></li><li><a href="http://highscalability.com/how-i-learned-stop-worrying-and-love-using-lot-disk-space-scale">How I Learned to Stop Worrying and Love Using a Lot of Disk Space to Scale</a></li><li><a href="http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster">Scaling Twitter: Making Twitter 10000 Percent Faster</a></li></ul></div></div>
+</div>
+<div id="block-comment-0" class="clear-block block block-comment">
+
+  <h2>Recent comments</h2>
+
+  <div class="content"><div class="item-list"><ul><li><a href="http://highscalability.com/unorthodox-approach-database-design-coming-shard#comment-2632">Re: An Unorthodox Approach to Database Design : The Coming of th</a><br>1 hour 26 min ago</li><li><a href="http://highscalability.com/google-architecture#comment-2631">Re: Google Architecture</a><br>1 hour 59 min ago</li><li><a href="http://highscalability.com/starting-website-scratch-what-technologies-should-i-use#comment-2629">Re: Starting a website from scratch - what technologies should I</a><br>3 hours 37 min ago</li><li><a href="http://highscalability.com/strategy-let-google-and-yahoo-host-your-ajax-library-free#comment-2628">Ad Block</a><br>4 hours 3 min ago</li><li><a href="http://highscalability.com/useful-cloud-computing-blogs#comment-2626">Re: Useful Cloud Computing Blogs</a><br>9 hours 33 min ago</li><li><a href="http://highscalability.com/useful-cloud-computing-blogs#comment-2625">Re: Useful Cloud Computing Blogs</a><br>9 hours 34 min ago</li><li><a href="http://highscalability.com/amazon-announces-static-ip-addresses-and-multiple-datacenter-operation#comment-2624">Re: Amazon Announces Static IP Addresses</a><br>11 hours 54 min ago</li><li><a href="http://highscalability.com/product-terracotta-open-source-network-attached-memory#comment-2623">Re: Product: Terracotta - Open Source Network-Attached Memory</a><br>16 hours 24 min ago</li><li><a href="http://highscalability.com/unorthodox-approach-database-design-coming-shard#comment-2622">Re: Sharding</a><br>18 hours 24 min ago</li><li><a href="http://highscalability.com/scalable-commodity-data-center-network-architecture#comment-2621">Re: bad math... </a><br>22 hours 40 min ago</li></ul></div></div>
+</div>
+<div id="block-forum-0" class="clear-block block block-forum">
+
+  <h2>Active forum topics</h2>
+
+  <div class="content"><div class="item-list"><ul><li><a href="http://highscalability.com/starting-website-scratch-what-technologies-should-i-use" title="28 comments">Starting a website from scratch - what technologies should I use?</a></li><li><a href="http://highscalability.com/job-queue-and-search-engine" title="3 comments">Job queue and search engine</a></li><li><a href="http://highscalability.com/high-performance-file-server" title="3 comments">High performance file server</a></li><li><a href="http://highscalability.com/uk-based-cdn" title="2 comments">UK Based CDN</a></li><li><a href="http://highscalability.com/code-deployment-tools" title="2 comments">Code deployment tools</a></li></ul></div><div class="more-link"><a href="http://highscalability.com/forum" title="Read the latest forum topics.">more</a></div></div>
+</div>
+<div id="block-block-4" class="clear-block block block-block">
+
+
+  <div class="content"><script type="text/javascript"><!--
+google_ad_client = "pub-9451539202293335";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+//2007-09-12: high_scalability
+google_ad_channel = "7022772782";
+//-->
+</script><script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/show_ads.js">
+</script><iframe name="google_ads_frame" src="scaling-mania-mysql-conference-2008_files/ads_002." marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" height="600" scrolling="no" width="160"></iframe></div>
+</div>
+<div id="block-tagadelic-2" class="clear-block block block-tagadelic">
+
+  <h2>Tags</h2>
+
+  <div class="content"><a href="http://highscalability.com/tags/apache" class="tagadelic level1">Apache</a> 
+<a href="http://highscalability.com/tags/aws" class="tagadelic level2">AWS</a> 
+<a href="http://highscalability.com/tags/caching" class="tagadelic level2">Caching</a> 
+<a href="http://highscalability.com/tags/cdn" class="tagadelic level1">CDN</a> 
+<a href="http://highscalability.com/tags/cloud" class="tagadelic level2">cloud</a> 
+<a href="http://highscalability.com/tags/database" class="tagadelic level2">Database</a> 
+<a href="http://highscalability.com/tags/ec2" class="tagadelic level2">EC2</a> 
+<a href="http://highscalability.com/tags/example" class="tagadelic level5">Example</a> 
+<a href="http://highscalability.com/tags/java" class="tagadelic level3">Java</a> 
+<a href="http://highscalability.com/tags/linux" class="tagadelic level2">Linux</a> 
+<a href="http://highscalability.com/tags/map-reduce" class="tagadelic level1">Map Reduce</a> 
+<a href="http://highscalability.com/tags/memcached" class="tagadelic level3">Memcached</a> 
+<a href="http://highscalability.com/tags/mysql" class="tagadelic level5">MySQL</a> 
+<a href="http://highscalability.com/tags/paper" class="tagadelic level3">Paper</a> 
+<a href="http://highscalability.com/tags/performance" class="tagadelic level1">Performance</a> 
+<a href="http://highscalability.com/tags/php" class="tagadelic level1">PHP</a> 
+<a href="http://highscalability.com/tags/product" class="tagadelic level6">Product</a> 
+<a href="http://highscalability.com/tags/scalability" class="tagadelic level2">Scalability</a> 
+<a href="http://highscalability.com/tags/shard" class="tagadelic level2">Shard</a> 
+<a href="http://highscalability.com/tags/strategy" class="tagadelic level6">Strategy</a> 
+<div class="more-link"><a href="http://highscalability.com/tagadelic/chunk/2">more tags</a></div></div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/adsense_click.js"></script><script type="text/javascript" src="scaling-mania-mysql-conference-2008_files/google_cse.js"></script>
+  </body></html>

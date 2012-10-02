@@ -1,0 +1,350 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 15 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font ZapfDingbats
+<< /BaseFont /ZapfDingbats
+ /Encoding /ZapfDingbatsEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://images.google.com.ua/imghp?hl=uk&tab=wi) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 54.81621
+ 801.8246
+ 129.0137
+ 816.4496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://groups.google.com.ua/grphp?hl=uk&tab=wg) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 131.7242
+ 801.8246
+ 168.823
+ 816.4496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://blogsearch.google.com.ua/?hl=uk&tab=wb) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 171.5335
+ 801.8246
+ 208.6322
+ 816.4496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://mail.google.com/mail/?hl=uk&tab=wm) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 265.9915
+ 801.8246
+ 291.4487
+ 816.4496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.google.com.ua/intl/uk/options/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 294.1592
+ 801.8246
+ 318.232
+ 816.4496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.google.com/calendar/render?hl=uk&tab=wc) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 33.22146
+ 785.2496
+ 92.57946
+ 799.8746 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://picasaweb.google.com.ua/home?hl=uk&tab=wq) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 33.22146
+ 766.7246
+ 107.419
+ 781.3496 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docs.google.com/?hl=uk&tab=wo) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 33.22146
+ 748.1996
+ 99.99921
+ 762.8246 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.google.com.ua/intl/uk/options/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 33.22146
+ 729.6746
+ 143.2307
+ 744.2996 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.google.com/accounts/Login?continue=http://www.google.com.ua/&hl=uk) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 538.1633
+ 716.9808
+ 566.9291
+ 726.4308 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F4': class PDFType1Font 
+15 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.google.com.ua/setprefs?sig=0_TZy-7MPwOJBhzNUimdNC_wMf3R0=&hl=ru) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 307.5715
+ 620.1183
+ 337.5359
+ 631.3683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://adwords.google.com/select?hl=uk) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 206.0009
+ 586.3683
+ 276.0547
+ 597.6183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.google.com/ncr) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 333.0022
+ 586.3683
+ 389.2747
+ 597.6183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R ]
+ /Contents 23 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 22 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R20': class PDFCatalog 
+20 0 obj
+% Document Root
+<< /Outlines 24 0 R
+ /PageMode /UseNone
+ /Pages 22 0 R
+ /Type /Catalog >>
+endobj
+% 'R21': class PDFInfo 
+21 0 obj
+<< /Author ()
+ /CreationDate (20080827124834)
+ /Keywords ()
+ /Producer (pisa HTML to PDF <http://www.htmltopdf.org>)
+ /Subject ()
+ /Title (Google) >>
+endobj
+% 'R22': class PDFPages 
+22 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 19 0 R ]
+ /Type /Pages >>
+endobj
+% 'R23': class PDFStream 
+23 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 1457 >>
+stream
+Gb"/'95bJ8&ADB>J*<XDa[K;(H]K[C0"J4P,8\9b#`9W'Mn&,7hs-f)R@a0*(/#,\M*l$lH9\ue:e:T&o_JJ7r]#_#Y>HF!_af7rZoHiu=,62*bBEJ(I:?e2%n^&CKaSsKHH#4q0E`Wo&tGpC7l#>ZkKS0k&u6]'^^jS3Zt.*PKYZ"U[A4&t=+m;9nBSQGMTS;*FpQV(ep!5$KCd(lO<-[m9*LQE!j2)[-n,P&92!C4)G)bN=q(h<e5)+<1*b.Qm/M3'GqK,9HKr%mYc0&ROa]:0;G-u$jmjT-@Qe[]an59!NesbZ[a<jpFS\]O5'M6D8_?j`+oub)bt?4[Z="Y<2.iC*p#ujs:uq',q!S-T+eGZW7V*>J+1bQZl#@Eer`+LK)$.4-%kl@uH;f<S:+GZuX&UsT0[;%(51Xq2)X]!5\]0b]Ze2H'`5`\K%<mg[A_9k^:cSPB)]>Xf(4H$VnRn`Z5YPo#+Mkr0#$eHEO;Vi!Ttk?^T0.uS8Acd5Z-!eR$LneLFlT<DcLB1M#lUG;6WMA!:93u:EN.L/F1oq]1KC_1ZTPW,rGuSC?=pCeXX5a\\SIgHDQcbdmm#5a\*a!jNTqK#PLhm\+D%4#1u-$<7$$e4b6Rj3F*sieIO=qrE[h)jeK".3Mc85ml5J/o&*A4rp;Dm#<P6\Y.ca()!IX7`Pe8>a*J-d#$=KF^Mh%?<nueQ^(dKIp)lobor10Ql6.OZ,[&2[:4?hUbI-<5%s0h54ek+3#[IAY'H]L2:ql]q;aBRi]6b50&\bPa'k5.kF/(GH]NorMPP39ATEh3XEnnP)Efk$s7*r+08b=MW+[;*aE72-ZJEj>,n`(8cG3e]^0o!#!=7AlsU<Z&l*_7.(g'NFOHmfLjKO4ilWk\"r`XU;UH01r9#i"cBq\BQj;>UQ3+P`uM;T*DC_XO[ls6f#"7!DL(+*//U0PmOmqV.M:3$j(-PYBarJcYNfmG9q+AV@?)Gdds9#=]n"/BMD,<2SP>gEjNogmi@Ju%bn^!r<mb.dVbl,CMY55\:bA9m>.?ATB:!,ME0]Q9W,rWdkA#t$uL>!7,I0deQiiN,tl\ijT.t>:@qdq!6+iAaeGAOnPZDT/p*k@Di5rPHEU`ql;T0$!5H"ZQssEanG`d(>/i4;iEFbfr36mHjfs:2)eV2jmo;/&^()IK_beASW-B%Dcb$;sh_ra^8m05>Kf/e(Ep(O,3Zhmq\+>JR9/I?^^4h9VI&s%E;fSoqI,<@,AL4g!?eS,KX/'n8ej?QYa[o<$'n,D@gU5QW@DQ-90[egiC'TFdO%9!EDP:*sbH*KY0<2M4o"ps]7HK3QPnT:sf,?)<BF4Q$]QXUW-g'%gbC41B(FS^$FhFk3BU3jiqsPJ)'Ss7`M-$UeL\l"^l8<A7'`5I!T5UCi5.LI)EmQ=`?:WBlRbMi=nq<r:FHV$+(=#CU]+R/:Ms]Xk)oe0>~>endstream
+
+endobj
+% 'R24': class PDFOutlines 
+24 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+xref
+0 25
+0000000000 65535 f
+0000000113 00000 n
+0000000246 00000 n
+0000000411 00000 n
+0000000586 00000 n
+0000000774 00000 n
+0000001038 00000 n
+0000001301 00000 n
+0000001564 00000 n
+0000001823 00000 n
+0000002081 00000 n
+0000002350 00000 n
+0000002616 00000 n
+0000002871 00000 n
+0000003132 00000 n
+0000003417 00000 n
+0000003600 00000 n
+0000003894 00000 n
+0000004152 00000 n
+0000004382 00000 n
+0000004787 00000 n
+0000004925 00000 n
+0000005125 00000 n
+0000005233 00000 n
+0000006837 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\225\210Yt\021\262H\026\001e\272\017Fv\265i) (\225\210Yt\021\262H\026\001e\272\017Fv\265i)] 
+
+ /Info 21 0 R
+ /Root 20 0 R
+ /Size 25 >>
+startxref
+6889
+%%EOF

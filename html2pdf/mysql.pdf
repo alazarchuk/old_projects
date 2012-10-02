@@ -1,0 +1,780 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 16 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 779.1371
+ 59.59896
+ 790.3871 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/forum) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 756.6371
+ 90.45396
+ 767.8871 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/links/weblink/24) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 745.3871
+ 115.039
+ 756.6371 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/links/weblink) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 734.1371
+ 80.43396
+ 745.3871 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/glossary) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 722.8871
+ 69.18396
+ 734.1371 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.jobamatic.com/a/jbb/find-jobs) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 711.6371
+ 55.43646
+ 722.8871 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/node/add/weblink) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 700.3871
+ 85.03146
+ 711.6371 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/book-store) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 623.0733
+ 83.77896
+ 634.3233 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/links/weblink/70) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 611.8233
+ 92.53146
+ 623.0733 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/tags/strategy) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 600.5733
+ 96.70146
+ 611.8233 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/links/weblink/75) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 589.3233
+ 81.69396
+ 600.5733 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://highscalability.com/links/weblink/83) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 39.59646
+ 578.0733
+ 86.69646
+ 589.3233 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+16 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.planetmysql.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 496.8865
+ 340.0683
+ 545.239
+ 351.3183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://jcole.us/mysqluc/2008/Scaling%20out%20MySQL%20-%20Hardware%20today%20and%20tomorrow.pdf) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 35.47146
+ 310.0683
+ 204.7015
+ 321.3183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://technocation.org/files/videos/original/2008_04_16_panel.wmv) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 35.47146
+ 287.5683
+ 174.7015
+ 298.8183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.paragon-cs.com/wordpress/?p=144) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 298.699
+ 287.5683
+ 346.6315
+ 298.8183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+21 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://feedblog.org/2008/04/17/slides-from-spinn3r-architecture-talk-at-2008-mysql-users-conference/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 88.41396
+ 265.0683
+ 156.7765
+ 276.3183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://venublog.com/2008/04/17/notes-on-scaling-heavy-concurrent-writes-in-real-time/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 206.9965
+ 242.5683
+ 350.374
+ 253.8183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+23 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://venublog.com/2008/04/17/notes-on-innodb-scale-on-servers-with-many-cores/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 119.674
+ 231.3183
+ 285.1465
+ 242.5683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scribd.com/doc/2569362/Exploring-Amazon-EC2-for-Scaleout-Applications) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 35.47146
+ 220.0683
+ 98.41146
+ 231.3183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scribd.com/doc/2569357/Applied-Partitioning-and-Scaling-Your-Database-System) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 35.47146
+ 197.5683
+ 188.0365
+ 208.8183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scribd.com/doc/2569319/Real-World-Web-Performance-Scalability) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 35.47146
+ 186.3183
+ 94.23396
+ 197.5683 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scribd.com/search?query=tags%3Amysqluc08&sortorder=time) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 234.7315
+ 175.0683
+ 254.734
+ 186.3183 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://blog.kovyrin.net/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 115.894
+ 86.50456
+ 165.4915
+ 97.75456 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.scribd.com/search?query=tags%3Amysqluc08&sortorder=time) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 145.4815
+ 46.90456
+ 390.1465
+ 58.15456 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R ]
+ /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+31 0 obj
+% Page dictionary
+<< /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+32 0 obj
+% Page dictionary
+<< /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R33': class PDFCatalog 
+33 0 obj
+% Document Root
+<< /Outlines 35 0 R
+ /PageMode /UseNone
+ /Pages 53 0 R
+ /Type /Catalog >>
+endobj
+% 'R34': class PDFInfo 
+34 0 obj
+<< /Author ()
+ /CreationDate (20080827131913)
+ /Keywords ()
+ /Producer (pisa HTML to PDF <http://www.htmltopdf.org>)
+ /Subject ()
+ /Title (Scaling Mania at MySQL Conference 2008 | High Scalability) >>
+endobj
+% 'R35': class PDFOutlines 
+35 0 obj
+<< /Count 4
+ /First 36 0 R
+ /Last 36 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+36 0 obj
+<< /Count -12
+ /Dest [ 30 0 R
+ /Fit ]
+ /First 37 0 R
+ /Last 52 0 R
+ /Parent 35 0 R
+ /Title (High Scalability Building bigger, faster, more reliable websites.) >>
+endobj
+% 'Outline.2.0': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 30 0 R
+ /Fit ]
+ /Next 38 0 R
+ /Parent 36 0 R
+ /Title (Navigation) >>
+endobj
+% 'Outline.2.1': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 30 0 R
+ /Fit ]
+ /Next 39 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
+ /Title (Who's online) >>
+endobj
+% 'Outline.2.2': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 30 0 R
+ /Fit ]
+ /Next 40 0 R
+ /Parent 36 0 R
+ /Prev 38 0 R
+ /Title (User login) >>
+endobj
+% 'Outline.2.3': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 30 0 R
+ /Fit ]
+ /Next 41 0 R
+ /Parent 36 0 R
+ /Prev 39 0 R
+ /Title (Syndicate) >>
+endobj
+% 'Outline.2.4': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 30 0 R
+ /Fit ]
+ /Next 42 0 R
+ /Parent 36 0 R
+ /Prev 40 0 R
+ /Title (Scaling Mania at MySQL Conference 2008) >>
+endobj
+% 'Outline.2.5': class OutlineEntryObject 
+42 0 obj
+<< /Count -2
+ /Dest [ 30 0 R
+ /Fit ]
+ /First 43 0 R
+ /Last 44 0 R
+ /Next 45 0 R
+ /Parent 36 0 R
+ /Prev 41 0 R
+ /Title (Comments) >>
+endobj
+% 'Outline.3.0': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 30 0 R
+ /Fit ]
+ /Next 44 0 R
+ /Parent 42 0 R
+ /Title (Re: Scaling Mania at MySQL Conference 2008) >>
+endobj
+% 'Outline.3.1': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 31 0 R
+ /Fit ]
+ /Parent 42 0 R
+ /Prev 43 0 R
+ /Title (Re: Scaling Mania at MySQL Conference 2008) >>
+endobj
+% 'Outline.2.6': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 31 0 R
+ /Fit ]
+ /Next 46 0 R
+ /Parent 36 0 R
+ /Prev 42 0 R
+ /Title (Comment viewing options) >>
+endobj
+% 'Outline.2.7': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 31 0 R
+ /Fit ]
+ /Next 47 0 R
+ /Parent 36 0 R
+ /Prev 45 0 R
+ /Title (Post new comment) >>
+endobj
+% 'Outline.2.8': class OutlineEntryObject 
+47 0 obj
+<< /Count -2
+ /Dest [ 31 0 R
+ /Fit ]
+ /First 48 0 R
+ /Last 49 0 R
+ /Next 50 0 R
+ /Parent 36 0 R
+ /Prev 46 0 R
+ /Title (Popular content) >>
+endobj
+% 'Outline.4.0': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 31 0 R
+ /Fit ]
+ /Next 49 0 R
+ /Parent 47 0 R
+ /Title (Today's:) >>
+endobj
+% 'Outline.4.1': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 31 0 R
+ /Fit ]
+ /Parent 47 0 R
+ /Prev 48 0 R
+ /Title (All time:) >>
+endobj
+% 'Outline.2.9': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 31 0 R
+ /Fit ]
+ /Next 51 0 R
+ /Parent 36 0 R
+ /Prev 47 0 R
+ /Title (Recent comments) >>
+endobj
+% 'Outline.2.10': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 32 0 R
+ /Fit ]
+ /Next 52 0 R
+ /Parent 36 0 R
+ /Prev 50 0 R
+ /Title (Active forum topics) >>
+endobj
+% 'Outline.2.11': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 32 0 R
+ /Fit ]
+ /Parent 36 0 R
+ /Prev 51 0 R
+ /Title (Tags) >>
+endobj
+% 'R53': class PDFPages 
+53 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 30 0 R
+ 31 0 R
+ 32 0 R ]
+ /Type /Pages >>
+endobj
+% 'R54': class PDFStream 
+54 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 3455 >>
+stream
+Gb!#_?#SK-&q)F[s"O3+[dG>N7"$T$,"U.Zfl"Ek2VnWSa9sTK2V57uP#>QRYJ3Fr:2JTtA1R$cBbO^FWSs8_R56*__879tr/N.Dg4dFc$Ijgu!2rOqk^J&kh<3+u5(E:*pe@e"fHG6>ht8.K!YY;e`K+qN<q]a&.PH0up\\0OY8e0ESjONcJ3tpJ"^Z;#/V0tccd8!T?9CP!-h*cj!U:7MUpao04$9tQ5OF-det?c[L=!IB_\$.m/7C](LhmR!\OcQ@*C<O1LKkk8JEb;USOg^cnO0Tf_I:H2>%Cm%=4$mb]"\r3s0VR1EVtA`*#i6I2ZB!332@OQ5s$3CnW=]N<W(b\*k]n2Tg;LWB1uNgGSOOW$0#HY![\"'^:h9X8%3<J_4pK)5.kq[-bMG`^.584Y7Yb;in?[;7'8;B1:Z7W$X>e>pjP$<[gBHGiGt[5^u//:FXCYQ*#mML(pMWEKKeq$<jV!GB*iqs!tH\.*atFmZWqM+*$h&qHQHoaRoj)\![S.Xo3NWhnJ93uf%u0%MhFhUADSV1CSp7=;6dud%le_tXJc:Lmq&[_972sRHQH][$o27l]Ti.;,/Xui!@L]bAA\9]0nq,oO?&M=`o:en9HIs/42c:_Vigb^MBT,FkRsNaG%Iuh&[<@g1`N9C>Gt`4r"!s$L2<o<l=3!eHn3u^L\_d+h,a@D9Q?A<Ls`Iih86Fa7Qn?7fQa?fm8ch(7RUW6Fga_``$B*d2eN[<f4i3l^GI%n$(OVuKtQoWLfjQ!(uHXH<T9s-\Q#l,a'5df_kam4OTo[qScG7\9OYROMCg*cLIl%6@uZ,L[M#Hq3L.\E(<?X8hFAO&RjXS$Cs(:g^c^*NlRWrBO6a2S]&S)^?YYZOemcm*3BYNg.'t('&)?C#47JO9]m!n/`"`N3s5R?5b](ZD$H!A"SOMk)"h@st^!o[[=P@,#9mmP,B!l*c#Ki/f?OHG0hX[Z?32Ki)"^.Z%Vj_;%#2LsYe7g%(GOUGD-Y3s?"MZe&-h'\ErYTu7RFX0nqHMY5Hc4eZT:ZaSJq-8VU3*5t;a(:!a"lO=0tX#MS=TWOF&qHJ6DITVI-+d1*%1fU<[?B.Tnh?hjZBO%:<Cf?iG+tX7?!gUDEG6;["c\5h%A5dC5t_6lX>(QOV0`n1,pH":.5!bK,M#6C`7_4WF3Lspc-%boE!6J3l"FR`Z0bML!>VN!uu-p"L5`Y#O3ncI#NO\ZPu(<o(V2*\Io-T\VE"(1h2'f5lDqm_2W::AXZl6)tU6!pYeFK#0f['q+-2D,Q30*@q2%%JPDlY/(>(q=MiLF*H9K4UYt:bDV.,%`bpV$1)(3./&:[OQWX5Ri<DSeJ#,CT`I&LHkEak"9\>K@CVpl7dq1qM`3)SJ!oU\+A_Ue/?bkE7;[F\G+dFj>'<-9W!.&npZOo5hB[E/<&s-%`_E]T\'msV@Lj'\Bcg\cI(Nnip0m8fNrfH/'lsYWSlOcb95,fKFRBVoW,cKI2\mH#A1GkL:[*08R/-j-]LCt\@`:d'UX:\=rBU;:[T6uM"KW_P:ROrMtN@^'XI?,jh#8VFYhk,rbYInfW(JOL7VI7JUT?W9,+HmJ<Pap90e=4@&UsW_5KM$L:oW8`\S8pJTZCmgBQ+Y(;eRJm_Q@`7S2^M%qBDC0Z*J\rM#[aW,:i/CcL]L-/CS]=/#-XAJdpYCL[-nbh40NuT42ue4K*b36&50ubofeF,0]>!Cq(Z+h4@DY3`J4:-c:*W:T>QUT_O4"(9/M\EcO(UHQ#iH7dj\<T\iSitN+dc0]R;&o]9-cM@,^44Q4=@\*NlgB/=1V/C.P/![%57Zg[<I+BRYeH-@mhEcfGbojWMJ8A,'gH(tAQ/Zf;t;$+uDbb7*3VMj$G#O=jfs7cn//.E<c\)7%a9g)IjT''I(QZBCDEdtN:0H'4OpjrmcT?tPbN-PNB>"=MQ,ME-f7V#@e1W!E"@YO]'OkJ>0;ELqu2X:F/nAeN;D"1T+V1$*i"n/@41YHT+Nr1D3FH&n<N)+9o:8hu+J@N*L9%qgO+j[u#Yc3l05MYkrY[#YlM^dO>9]OCZL]4o[ohe(#UF>%+0O-89/<gi7dP^#(FDJ4f8ELj##D/&"ur)TV4R]?jfK!4H]==3V;>#"0C]4Gd21kjq>f<l5nd<8#Pk/5R\"6eM3<[aA2OHpe"XbiD^%"#NU1:Y3*QT>K<+_UZ.Z*@cEUj/J%qtqCf"D_7[SA:@>CmV2^[*83C[B?n[f/>1",#k"X+d7P?prhEo[S<k"&ZLN0^0cj^`fi&<c/BqmLFg[Q`&K8%ghD#N:k,<\ag+Uu$r<%Q3/^op2H.7XV1j"1EHZ-'B3MDQ_T_L<)u:t('ZYmCHC2A:h6O@/pERE+5!f/R5=XdkcuQO-@l4kL]\&lS4!/W9.!Q36:jDTWM)@e/n768Roimm-2lC5G2?$iKl']U^9+koj@f+6r(s\3PChVHU:iZX+U`;#-lKp]JmAHfk?(?-)"dft5kaPSc&Orgf*`+PAM>0jp9<dtZUb_@#RBV/VZa02rbc^ife6OEVo1JBgl$G1V->(r2d*'G6;IKQUY)LE`P\sK(Z]t,;m@Q+u^dkP:@IChf".j6Nf*\h0o(*c2Qo9hIasJgXUqd@b%GaFrF]m\&4OkAqIZ19RiM\6gL8-^\JdNLH#euWrD@A2_a$:$]cifqk)!7h8'UBd%%SDr!.2/#ms)!lNB]SSQ\gVR/?WFpu&k',U;fC\b`..9Xf2b27FDjG_"S7eU9Gi_J023p&8-ou`$>qnSIct+p]W11OBnR?:e;80&f,:1tk$=!8K(:,MF4F4Ah2[&>L:br/5JpRb<$5Jmm&'3-QJI6IXm\6NFln#rr6B'2%UL^sa^.W*oZ],;UWRG?>[c-t<"Q6Ym_pM!=WRCsO>4r[jjUsj<lZ"Y[I]V*6YI<f:9^D>s1*DDi.Ai\B<ol$'':r&l3($IC!KFI/Lo`,j(K&Qd(QKcO79PJa/D(bpr=@596MUW?oM:<DG2+_,C)sHFM_Ug@/K'[/QR/EXBeJ!+_@VW0U=%P@kl.9r[66bb7l6(Wk9g:'[&8@=N_H:le!HqQ0@m"b.k'ljmQ+5rS5kc^>W"Kh6HiWbsmQ4rV,WH#%*8XgDmRXWI-Wi*bsa5qaJFJTM[pW.fXZWm>K=8K.#MVUNXOl[3#V.g'2$h-le:G;ht(9*t;BkkX02<Qd@(7gc*sCFCXr::5VK+`hoLLnfpg@/[mnaN6?*%pG?XY1g?clOWA8n,!ANm2a3#Sjm?<0qSFRON)XD>26@^g@bkKHd!*\Wl,Ks0n'*r41>b,AG?ZWAN>>UH6,>nWcKudKL!OU&(T/L<SpK,%pqX!\@:Uj1<\bV">Mj,@BEpSG1uB"LM2XNI@ALtASJ7hMRiWRkc=Sk1apiq[jIt_5r&anHF#EtT@mg3%k@?@"?^!UTd-J=ms(JAeM$9[Nokpb/%P0_lp4#!T,Ot~>endstream
+
+endobj
+% 'R55': class PDFStream 
+55 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 2460 >>
+stream
+Gb"/)?#SIW(4@j_s)<0gVE8HkOnoQ2B95]SBn9g(X^)>NQkrr#D2fi=9@E?TJ,N\GG+ElZR'Pb3*u5>qMkm/l_o$O[,Q]TI8Fo%tiTDAs]d>um%*(V\a+rU_]H=k8naDet4u`M`l3&"eSfdeP`%H1Gid#eFNa_<tRjPfAVU]a^!/>'+\&\m"m1OIn\,"*:GK6cA8/2";L;,Zj[F^V+org$`]R3QW+V"s33\eIS&h%)-h)#g"G[O6-HA=q+#N#BDjE7_DDE@]h\aS_Shd/i7`^C,Q>i,Ukqt#]m0L*--1I>BfO1QaIJbe%om`fX%kdAWAKBp8unQY:i0t[NZ08L.R;&V_VlSZoUC+-@r5)Aa])N?.cS]HO.]@YJ)_Y'X8[Sc7uY+Me"r]FQFEEA&h+a-D_Lt!U8,(AJe0M#?/<ti)T<R-,/\6TS.hnYMU`a&'aj^8Y(T3FQ#hf]ajAo@LS_1m'L.B@(G0C\N/U&]qPlR<a2k0G#o"$Pq&s50B<OE?J%'.5&i*4i::SfQ6t<(n:sdFN!WM>]DKmCj3EaX[gE3F<V$MH]2;;V!W1j2<)t#nL7q4do2(>Z2Qk+;I>]C;mO!Z3O\5O.')%\n=!fSDd>cM;-hs::?U1'KL/TRL-`=R\NRl?Z7i>S4f\_X&g=9a<#M,)&rd>f@s\B@4oAp>P]bH\V-DGG\aM7fb8K$7%HJ4B+O7@*,=\iXu0OhmLADEgN1!<X<@7c]1m:$,S,.9;[lAS8#mn*T-9?B$ap0i+NmbjR%I<kYoa8^Bp#;Lphmn83%1pemWJ2n3J4.h^GGLs/srBi:Um\HpQ1g\,!OZVfW!@JJ[EI7Z(@/mH*6H9@1]&?\,OPN<j@fp=ITts>'f6dk.GW#qkdnLdDM\,G$Gu:%Z;A:$S-'6N#3cgF+rVmM[]*qN7SsSglfu[FHL'l;$d[VV!(c/.]DMTUi!BDVdg9mke^*tn-;g2,6L*E7HlrMqZcZ>n#-=ON'U<%(&(a+`!-'HDiX#6&apuB@:sQRpcO&fUW*t7:fqb7GUorphU]<jV<>.9]L%`<!Ab4VCJcjXA,P5BdjVJVF8D;d\h"2n5elr"G^BO]:"0@EX[S)S?U(]SH+DIuZkV&$X"hjVhej([G14+VC(T,/7D@<6D3)d1G/GeOr3?3(\)qo(e),Z/eQ(Mm=C3=,-XFWfUpGi"p3>=T<_O^XGf-H#`;\g`/5iO<]NX^/RRoE"XI^mY@2M3jF@Z/K0lHcsE;67@8hl1=*LEU;h'KYT#8f_JjNN:0\Xos'#NZ2c_-@'(%]R[!k')8j)'>A&H!dE7(s9f.$;X7WGVl_Mg@rU-#i2e;bTO@P,GXjF]C_ns;TpN;-GIJS/]*ZH0U\1!l2Li^]>fMi**jMm?*`2BjMgn8It;Jbl#)49kekD,)NKX]fLX4@"`9:m+Vb)D3*f((=fDRkIDQQQlN)(qpfEi9A]-F(R[((M/iZcL0N,cHZ;&_%K5U9B09L3:1lR*T/,9G5R'qiQ4YN1-8+G0]H&;"._(ip07uF64Og4$Bb!,IjU;5:Qp02Ta&_j<I;X+D4YnGV[dgbG:<Ot#deb_E\Q]!;ZD.8cG\AAAPJPirY.o=gR^^%+u6?aa=C5O8&Ymc&fid%fa;p?UZ@4s[9R/9nRn[sCQ6Hh6=Y,pfGdf!F,M7q2[!@BeP9Y*AP`H\leW3S?;C,j6VjAMjRN6kKsH0i^bSknk0B8mJA7J)4B&A"t$CF,dJMG3pKQZXk`9;cCf]jmLjN'DR-<BdD?!_g91l.1+0ET7`;;^UmIe"5_d]?]f=*!UD6Xl/RNZt03Q392d5OlY<:Mn1<Ca\ePuZ?aC07Kn9YkZ!Ejf?8ndE7MrLs582HjQm1<lki)E_m0oi6i?s1-9aKZ;g5'8ie6L.ma%uR1lNIT]VP_Z4_bufm6p/:Jb3=KF*sNgb]=Up6%gdOCR?<YOEFU:]?h\=Uc=T/Ic)L7c(i?"*X0ouH'foh"N^2\?Ab?)7oS]D]+Qu1GuRaVZEK=._jRTNAqIjM(,c">Ug0APcX^lOif:oXeK!R7o*"GdY%BAd=j!4Td*)1![;hjPN@Q_:Q\@rF\ph&%\B)'9KqMX.]6A(+Loq,X\4k-la_RdGk/Dk"!-X;E0ucA=HZ2!eXt'$s2tjEsn6=4hT_J">Mhgse?3PWN.L<j505T7rVbRkB>'@+Ij0,8c7?E+j(EAlF)7!7gobs&dU(l\=qCs!D`N!,=c.M1/&<[#??f20^GRA72m#a_:O3\A?lFTgN56\@Tc,F15fc>&/0ZA`DkRnieHf9s2nJmsei,MG_$Lb,_Cc@=:OSZhMC1UN%djP&(BM2(em&=A4BI7lf7i-QK&5!d4;1_Cde&^E*YV:"',/Vf$'Om5HAR7Wi(E%VUJTnW@gZqYiYgqX;_])T"IM.pUbY49YSNR$YOS":PpWo&#KOQk7A@m8.eTo>@dC"?c%Oeu;nR$CUc]8~>endstream
+
+endobj
+% 'R56': class PDFStream 
+56 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 1347 >>
+stream
+Gb!$G=``=U&BEZkj6s45C1i,0#6?#%*Ebt'_b"Z;RD/:sVI564%u#cZp!\+VaYmj2+s"4(O$#J%^T`V<(OMO$K+D-Kq[o@Bi:ZOQ."g1f:dG6.:>t$qpuqVFd<YCY[m+7AiBdkX8lO^TcLL'<ZH]u2-!^?H.Wo/8<ONT]94PQ?jA_1^Z29I,?W="3@.ng+eRl4I5E:e6TTh.>o\#B%)W;_OTsZBo9H-03op$VgpLpI:GG?W^?J%4+/[JMI#a6qkjtKB$<KROV!`$UCO]Ci)GmL``@>"WI8WdW#.7?H1As$%Br3#\hr:[<-W:YoC&qRW_8GC5^N[+.6'#Q\hP9T^;#1MAgJI`jJ?p('Z2Tona=g9:=rWH@I?Y$)jmLW*bM!J34bR6Xb"#HFD`_Z0\^ao2kZ8##bS8[AEc#8d;T?=RhX"atZV4GM:)^Xa[$b>+<B0Us;nJ<(eY"Kc.7)YurPKkm%FJ)!1>BJ/!k]UY[LBr`;qXE@Qo`2?AP*Q(tg'ffHS5hYHS9VnLe](*h57anK>U=(r6(Y.Z59%6CWAN!pbJsbd-gH0g!Cf2_3HS@F>^^gi3s9I"fH16`\^IJt(q?i;=cal/1l3@H;j7)O4FT4^P='6dAXm/I#Vb"E(`2-N5!Y7`hhKUug7[*idO^#a%p)Aoc(Q$Y[V#>qn`XJ'$/Z+p=>97b12Bd@B]DMmgYnr57Dq"&>otN9,siS>l@#m=_TJa#1a@WQ'X!&7,-gdoVSc8>=_'0IW$Fl?%fu@j':bEuX5)e'Qf2>^GkTqC"3+8-]*F&:,ahl(gJsWB,9(-Y8s8ZUl+N*jQNdiNTVU,OA#FKZ'QLdVS*`Un^JX?8*g&XjYY*mIpFQUbesTYL8*sdRf@9Ht@_@CrCGR^$n;$sh$tUHTWnn^%o\O9i0hk3B+]O%iX]e&Fq8@'U>FH.j[=u31e/U4l.X>5inZub#.JffAgJ'.[i].H4Bph2->:G\j=4`]I\S[m,9;51eo[7N+/:Ec-`ZB96V8G)6)u_RGZ`<H)2&J<Q+m$qaZ*l7GN"OXr2&D.Sed.44JZJ(5<,0:@2Kl5OJnna1pm-+`+K-Q[l%%]VGTF76Rp(d3k,LCG.^qbpE=($WC7!#-:+Hau7Yd&H69`'F47W_"!R5hdPp(dqGZ@L9bn4=dGFu@=5GpZ%$*M\p-/,A9&_jGWbC<L`B\o35>[gRsOhI6g5/e$GXhqep5+699,<64mi^]'lZWY+u`=]T**mV*@2;.]ff$j6>*mL*UD&]K<Reo"E:\k!k:U(esHW3r$K]Y#qK7)LQ/4\4`Hs.V#E)a*#p$c^LrA>q6U"*gP;<N:Q])b>@nm,f@NfX/As1r[O~>endstream
+
+endobj
+xref
+0 57
+0000000000 65535 f
+0000000113 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000586 00000 n
+0000000830 00000 n
+0000001080 00000 n
+0000001340 00000 n
+0000001598 00000 n
+0000001851 00000 n
+0000002121 00000 n
+0000002383 00000 n
+0000002639 00000 n
+0000002902 00000 n
+0000003162 00000 n
+0000003425 00000 n
+0000003675 00000 n
+0000003870 00000 n
+0000004116 00000 n
+0000004430 00000 n
+0000004716 00000 n
+0000004977 00000 n
+0000005297 00000 n
+0000005601 00000 n
+0000005900 00000 n
+0000006200 00000 n
+0000006507 00000 n
+0000006799 00000 n
+0000007084 00000 n
+0000007327 00000 n
+0000007598 00000 n
+0000008109 00000 n
+0000008389 00000 n
+0000008670 00000 n
+0000008808 00000 n
+0000009062 00000 n
+0000009187 00000 n
+0000009418 00000 n
+0000009565 00000 n
+0000009729 00000 n
+0000009891 00000 n
+0000010052 00000 n
+0000010242 00000 n
+0000010445 00000 n
+0000010624 00000 n
+0000010803 00000 n
+0000010978 00000 n
+0000011146 00000 n
+0000011356 00000 n
+0000011501 00000 n
+0000011647 00000 n
+0000011815 00000 n
+0000011987 00000 n
+0000012110 00000 n
+0000012236 00000 n
+0000015836 00000 n
+0000018441 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\340A|G\005\216\345\335\2269&{\006\);\375) (\340A|G\005\216\345\335\2269&{\006\);\375)] 
+
+ /Info 34 0 R
+ /Root 33 0 R
+ /Size 57 >>
+startxref
+19906
+%%EOF
